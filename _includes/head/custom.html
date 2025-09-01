@@ -5,7 +5,7 @@
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
+<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
@@ -13,5 +13,65 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
+-->
+
+<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
+<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/favicon_io/favicon-192x192.png"/>
+<!-- <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>-->
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon_io/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon_io/favicon-192x192.png" sizes="192x192"/>
+<!-- <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>-->
+<link rel="icon" href="/images/favicon_io/favicon.ico"/>
+<meta name="theme-color" content="#ffffff"/>
+
+
+<style>
+/* === Force light mode, disable theme toggle === */
+
+/* Hide the theme toggle button (sun/moon icon) */
+#theme-toggle,
+#mode-toggle,
+.theme-toggle,
+.color-scheme-toggle,
+.site-theme-toggle,
+.mode-toggle,
+button[aria-label="Toggle theme"],
+button[title="Toggle theme"] {
+  display: none !important;
+}
+
+/* Always use light colors */
+html, body {
+  background: #ffffff !important;
+  color: #000000 !important;
+}
+
+/* Ignore system dark mode */
+@media (prefers-color-scheme: dark) {
+  html, body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+}
+</style>
+
+<style>
+/* Restore normal text style for blockquotes (used in citations) */
+blockquote {
+  font-style: normal !important;   /* no italics */
+  background: none !important;     /* remove grey background */
+  border-left: 3px solid #ccc;     /* simple left bar */
+  padding-left: 1em;
+  margin: 0 0 1em 0;
+}
+</style>
+
+<style>
+/* Bolden nav tab text */
+.masthead__menu-item a {
+  font-weight: 700 !important; /* 700 = bold */
+}
+</style>
+
 
 <!-- end custom head snippets -->

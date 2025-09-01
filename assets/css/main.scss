@@ -1,6 +1,10 @@
 ---
 ---
 
+$right-sidebar-width: 300px;
+$left-sidebar-width: 240px;
+
+
 /*
  * This file controls what is imported from /_sass
  *
@@ -13,7 +17,7 @@
 
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+//    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
     "include/mixins",
     "vendor/susy/susy",
@@ -41,3 +45,4 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
