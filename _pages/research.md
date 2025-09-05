@@ -101,7 +101,7 @@ author_profile: true
 		<br>
 
 		<em><p><strong>Team:</strong>
-			Santosh Katuwal, Renmin Pretell, Jeff Bayless (AECOM), Ramin Motamed, Norman Abrahamson (UC Berkeley)
+			Santosh Katuwal, Renmin Pretell, Ramin Motamed, Jeff Bayless (AECOM), Norman Abrahamson (UC Berkeley)
 		</p></em>
 
 <!--
