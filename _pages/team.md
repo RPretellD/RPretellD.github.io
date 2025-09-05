@@ -83,9 +83,9 @@ author_profile: false
 			</h2>
 			
 			<ul>
-				<li>PhD, University of California, Davis, CA, 2022.</li>
-				<li>MS, University of California, Davis, CA, 2019.</li>
-				<li>BS <em>(Summa Cum Laude)</em>, Universidad Nacional de Ingeniería (UNI), Peru, 2012.</li>
+				<li>PhD, University of California, Davis, CA, 2022</li>
+				<li>MS, University of California, Davis, CA, 2019</li>
+				<li>BS <em>(Summa Cum Laude)</em>, Universidad Nacional de Ingeniería (UNI), Peru, 2012</li>
 			</ul>
 		
 		</div>
