@@ -35,14 +35,13 @@ redirect_from:
 </figure>
 
 
-<br>
 ---
-<br>
-
 
 <!-- ## **<u>WELCOME</u>** -->
 
-Welcome! I'm **Renmin Pretell**, Assistant Professor in the Department of Civil and Environmental Engineering 
+## Welcome! 
+
+I'm **Renmin Pretell**, Assistant Professor in the Department of Civil and Environmental Engineering 
 at the University of Nevada, Reno (UNR). 
 
 <!-- ## **<u>ABOUT THE PRINCIPAL INVESTIGATOR</u>** -->
@@ -66,7 +65,7 @@ My combined experience in industry and academia shaped my goal of bridging the t
 We aim to study real-world problems with a fundamental perspective to produce knowledge that is scientifically sound 
 and useful to the industry. 
 
-Find out how to join our group [here](https://RenminPretell.github.io/opportunities){:target="_blank" rel="noopener"}. 
+[Join our group]({{ "/opportunities/" | relative_url }}){:target="_blank" rel="noopener"}.
 
 <!-- ## **<u>CONTACT</u>** -->
 <br>
@@ -82,3 +81,8 @@ University of Nevada, Reno<br>
 <b>Office:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;775-682-5226<br>
 <b>E-mail:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rpretell at unr dot edu<br>
 <b>UNR site:</b> &nbsp;&nbsp;[https://www.unr.edu/cee/people/renmin-pretell](https://www.unr.edu/cee/people/renmin-pretell){:target="_blank" rel="noopener"}
+
+<br>
+<br>
+
+<small><span style="color: #777;"><em>Last updated: September 4, 2025</em></span></small>

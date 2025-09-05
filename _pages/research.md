@@ -111,11 +111,15 @@ author_profile: true
 -->
 
 		<figure>
-			<img src="/images/AFliq1.png" alt="AFliq" style="width:100%; height:auto; border-radius:6px;">
+			<img src="/images/Figure_3_rp.png" alt="Vs_TFs" style="width:100%; height:auto; border-radius:6px;">
 			
 			<figcaption style="text-align:center; font-size:0.9em; color:#555;">
 				<em>
-					Variation of AF<sub>liq</sub> with factors of safety against liquefaction triggering (Pretell et al. 2025).
+					Effect of shear-wave velocity (V<sub>S</sub>) profile gradient on site amplification (
+					<a href="https://doi.org/10.1061/9780784485996.032" target="_blank" rel="noopener">
+						Katuwal and Pretell 2025
+					</a>
+					).
 				</em>
 			</figcaption>
 		</figure>

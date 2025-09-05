@@ -98,12 +98,12 @@ author_profile: false
 			</h2>
 			
 			<ul>
-				<li><em>08/2023 – Present</em> &nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor, University of Nevada Reno, NV</li>
-				<li><em>10/2022 – 07/2023</em> &nbsp;&nbsp;Postdoctoral Scholar, University of California Los Angeles, CA</li>
-				<li><em>09/2017 – 09/2022</em> &nbsp;&nbsp;Graduate Student Researcher, University of California Davis, CA</li>			
+				<li><em>08/2023 – Present</em> &nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor, University of Nevada, Reno, NV</li>
+				<li><em>10/2022 – 07/2023</em> &nbsp;&nbsp;Postdoctoral Scholar, University of California, Los Angeles, CA</li>
+				<li><em>09/2017 – 09/2022</em> &nbsp;&nbsp;Graduate Student Researcher, University of California, Davis, CA</li>			
 				<li><em>09/2015 – 08/2017</em> &nbsp;&nbsp;Project Engineer, Golder Associates, Denver, CO</li>
 				<li><em>01/2013 – 08/2015</em> &nbsp;&nbsp;Staff Engineer, Golder Associates, Peru</li>
-				<li><em>01/2010 – 04/2012</em> &nbsp;&nbsp;Research Assistant, CISMID, Peru</li>
+<!--				<li><em>01/2010 – 04/2012</em> &nbsp;&nbsp;Research Assistant, CISMID, Peru</li> -->
 			</ul>
 
 			<h2>
@@ -118,7 +118,7 @@ author_profile: false
 				<li>Haley & Aldrich Diversity and Equity essay contest winner, 2021</li>
 				<li>Patrick C. Lucia Geotechnical Engineering Scholarship, 2019</li>
 				<li>Excellence Rating on thesis defense (UNI), 2014</li>
-				<li>Best Student 2012-I (UNI), Rank: 1/120, 2012</li>
+				<li>Top Student 2012-I (UNI), Rank: 1/120, 2012</li>
 				<li>Best Research Project 2012 (UNI), 2012</li>
 				<li>Santiago Antúnez de Mayolo Scholarship (UNI), 2010</li>
 			</ul>
@@ -133,7 +133,7 @@ author_profile: false
 <!-- Renmin's students -->
 
 <br>
-<h1 class="team-section" style="text-align:center; text-decoration:underline;"> STUDENTS </h1>
+<h1 class="team-section" style="text-align:center; text-decoration:underline;"> GRADUATE RESEARCH ASSISTANTS </h1>
 <br>
 
 <div class="team-grid">
@@ -153,9 +153,10 @@ author_profile: false
 				PhD (expected: May 2027)</p>
 			
 			<p>
-			This is text, this is text, this is text, this is text, this is text, this is text, this is text, 
-			this is text, this is text, this is text, this is text, this is text, this is text, this is text, 
-			this is text, this is text, this is text, this is text, this is text, this is text, this is text. 
+			Santosh completed his master’s degree at Purbanchal University, where he graduated in first position and received 
+			two Gold Medals for securing the top rank. At UNR, he was awarded the Nevada DRIVE Graduate Research Assistantship. Santosh 
+			works on integrating theoretical approaches and computational analysis to better understand site effects. His long-term goal 
+			is to develop tools and models that connect seismic data with engineering applications to support communities in reducing seismic risk.
 			</p>
 	  
 		</div>
@@ -163,7 +164,7 @@ author_profile: false
 
 
 	<div class="team-member">
-		<img src="/images/CarlosFernandez.jpg" alt="Carlos Fernandez">
+		<img src="/images/Carlos.jpg" alt="Carlos Fernandez">
 	
 		<div class="team-text">
 	
@@ -177,9 +178,9 @@ author_profile: false
 				MS (expected: Dec. 2026)</p>
 				
 			<p>
-			This is text, this is text, this is text, this is text, this is text, this is text, this is text, 
-			this is text, this is text, this is text, this is text, this is text, this is text, this is text, 
-			this is text, this is text, this is text, this is text, this is text, this is text, this is text. 
+			Carlos earned his Bachelor’s degree in Civil Engineering from the National University of Engineering in Lima, Peru. 
+			Before UNR, Carlos worked as a Research Assistant at CISMID (Peru). Carlos' research interests include geotechnical earthquake 
+			engineering, dynamic soil behavior, and programming applications in Python for data analysis.
 			</p>
 	  
 		</div>
@@ -187,7 +188,7 @@ author_profile: false
 
 
 	<div class="team-member">
-		<img src="/images/CesarSanchez.jpg" alt="Cesar Sanchez">
+		<img src="/images/Cesar.jpeg" alt="Cesar Sanchez">
 	
 		<div class="team-text">
 	
@@ -195,15 +196,15 @@ author_profile: false
 			<br>
 			
 			<p><strong>Research areas<br></strong>
-				Soil spatial variability, numerical modeling</p>
+				Soil spatial variability, tailings</p>
 			
 			<p><strong>Degree objective:&nbsp;&nbsp;&nbsp;</strong>
 				MS (expected: Dec. 2026)</p>
 				
 			<p>
-			This is text, this is text, this is text, this is text, this is text, this is text, this is text, 
-			this is text, this is text, this is text, this is text, this is text, this is text, this is text, 
-			this is text, this is text, this is text, this is text, this is text, this is text, this is text. 
+			Cesar holds a BS in civil engineering from the National University of Engineering in Peru. Before joining UNR,
+			Cesar spent three years with WSP at the Lima office working in tailings dam projects. 
+			Cesar's research interests include mine tailings and soil's spatial variability. 
 			</p>
 	  
 		</div>
