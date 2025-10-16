@@ -74,7 +74,7 @@ author_profile: false
 		<div class="team-text">
 		
 			<h1 style="margin:0;">
-				Renmin Pretell, Ph.D.
+				Renmin Pretell, PhD
 			</h1>
 			<br>
 		
@@ -172,7 +172,7 @@ author_profile: false
 			<br>
 			
 			<p><strong>Research areas<br></strong>
-				Seismic site response, geophysics</p>
+				Seismic site response, V_S profile uncertainty</p>
 			
 			<p><strong>Degree objective:&nbsp;&nbsp;&nbsp;</strong>
 				MS (expected: Dec. 2026)</p>

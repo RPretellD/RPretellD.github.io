@@ -59,8 +59,7 @@ from the University of California, Davis; and a BS in Civil Engineering from the
 
 Our research aims to advance the performance assessment of geotechnical systems and infrastructure by 
 integrating field and experimental data, with numerical simulations and analytics. Our research interests 
-include seismic site response and ground motions, soil spatial variability and subsurface uncertainty, 
-mine tailings and soil liquefaction effects. 
+include seismic site response, soil liquefaction, and subsurface soil spatial variability. 
 
 My combined experience in industry and academia shaped my goal of bridging the two. 
 We aim to study real-world problems with a fundamental perspective to produce knowledge that is scientifically sound 

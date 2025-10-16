@@ -95,31 +95,54 @@ Basu, D., **Pretell, R.**, Montgomery, J., and Ziotopoulou, K. (2022).
 
 
 <br>
-## **<u>PEER-REVIEWED CONFERENCE PROCEEDINGS</u>**
+## **<u>CONFERENCE PROCEEDINGS</u>**
 
 
 > 
-<u>Katuwal, S.</u>, and **Pretell, R.**
-“Site response for nearly vertical incident P and SV waves.” 
-In: *Proceedings of GeoCongress 2026.* 
-Salt Lake City, UT, March 9-12, 2026. 
+**Pretell, R.**, <u>Katuwal, S.</u>, Huaman, A., and Motamed, R. 
+“Assessing analytical solutions for vertical site response: Insights from the Service Hall Array.” 
+In: *Proceedings of the 13<sup>th</sup> National Conference on Earthquake Engineering.* 
+Portland, OR, July 13-17, 2026. 
 *In review.* 
 
 
 > 
-Numanoglu, O. A., **Pretell, R.**, and Hutabarat, D.
-“Seismic settlement analysis of Nihal Atakaş Mosque: A comparison of field observations, semi-empirical estimates, and 3D seismic soil-structure interaction simulation results.” 
+Numanoglu, O.A., and **Pretell, R.** 
+“Three-dimensional finite element simulation of a soil-structure system using double convolution-based input ground motions.” 
+In: *Proceedings of the 13<sup>th</sup> National Conference on Earthquake Engineering.* 
+Portland, OR, July 13-17, 2026. 
+*In review.* 
+
+
+> 23\.
+<u>Katuwal, S.</u>, and **Pretell, R.**
+“Site response for nearly vertical incident P and SV waves.” 
 In: *Proceedings of GeoCongress 2026.* 
 Salt Lake City, UT, March 9-12, 2026. 
-*In review.*
+*Accepted.* 
 
 
-> 20\.
+> 22\.
+Numanoglu, O. A., **Pretell, R.**, and Hutabarat, D.
+“Seismic settlement analysis of Nihal Atakaş Mosque: A comparison of field observations, empirical and semi-empirical estimates, and 3D seismic soil-structure interaction simulation results.” 
+In: *Proceedings of GeoCongress 2026.* 
+Salt Lake City, UT, March 9-12, 2026. 
+*Accepted.*
+
+
+> 21\.
 **Pretell, R.**, Brandenberg, S. J., Stewart, J. P., Gingery, J. R., and Zafir, Z. (2025).
 “Relationship between factors of safety against liquefaction triggering and liquefaction effects on ground motions.”
 In: *Proceedings of GeoExtreme 2025.* 
 Long beach, CA, November 2-5, 2025. 
 *Accepted.*
+
+
+> 20\.
+<u>Katuwal, S.</u>, **Pretell, R.**, Bayless, J. R., Motamed, R., and Abrahamson N. A. (2025).
+“Toward advancing ground motion model predictions for the Sierras region in Eastern Calfornia.”
+*2025 Seminar on Utilization Strong-Motion Data.*
+Sacramento, CA.
 
 
 > 19\.
@@ -194,7 +217,7 @@ Los Angeles, CA, January 31-February 11, 2022.
 > 10\.
 **Pretell, R.**, Sinha, S.K., Ziotopoulou, K., Watson-Lamprey, J.A., and Zekkos, D. (2021). 
 “Broadening the utilization of CSMIP data: Double convolution methodology towards developing input motions for site response and nonlinear deformation analyses.” 
-*Seminar on Utilization Strong-Motion Data.*
+*2021 Seminar on Utilization Strong-Motion Data.*
 Sacramento, CA.
 
 
@@ -367,6 +390,14 @@ B.S. thesis, National University of Engineering (UNI), Lima, Peru.
 
 <br>
 ## **<u>REPORTS</u>**
+
+
+> 11\. 
+Lee, J., Bastias, N., <u>Katuwal, S.</u>, Cabas, A., **Pretell, R.**, and Montalva, G. (2025). 
+*Understanding the performance of ground motion models in megathrust tectonic environments.* 
+CRESCENT Open Documents Library. 
+[https://doi.org/10.5281/zenodo.17180284){:target="_blank" rel="noopener"}.
+**Accessible [here](https://doi.org/10.5281/zenodo.17180284){:target="_blank" rel="noopener"}.**
 
 
 >10\.
