@@ -111,16 +111,17 @@ author_profile: false
 			</h2>
 
 			<ul>
+				<li>2025 International Research Seed Funding Competition, CTBUH, 2025</li>
 				<li>ExCEEd Teaching Fellow, ASCE, 2025</li>
 				<li>DesignSafe Dataset Award, NHERI, 2024</li>
 				<li>Earthquake Spectra Outstanding Reviewer, EERI, 2023</li>
-				<li>Building Future Faculty (BFF), NCSU, 2022</li>
+				<li>Building Future Faculty, NCSU, 2022</li>
 				<li>Haley & Aldrich Diversity and Equity essay contest winner, 2021</li>
 				<li>Patrick C. Lucia Geotechnical Engineering Scholarship, 2019</li>
-				<li>Excellence Rating on thesis defense (UNI), 2014</li>
-				<li>Top Student 2012-I (UNI), Rank: 1/120, 2012</li>
-				<li>Best Research Project 2012 (UNI), 2012</li>
-				<li>Santiago Antúnez de Mayolo Scholarship (UNI), 2010</li>
+				<li>Excellence Rating on thesis defense, UNI, 2014</li>
+				<li>Top Student 2012-I, UNI, Rank: 1/120, 2012</li>
+				<li>Best Research Project 2012, UNI, 2012</li>
+				<li>Santiago Antúnez de Mayolo Scholarship, UNI, 2010</li>
 			</ul>
 		</div>
 	</div>

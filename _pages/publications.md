@@ -135,12 +135,12 @@ Salt Lake City, UT, March 9-12, 2026.
 “Relationship between factors of safety against liquefaction triggering and liquefaction effects on ground motions.”
 In: *Proceedings of GeoExtreme 2025.* 
 Long beach, CA, November 2-5, 2025. 
-*Accepted.*
+[https://doi.org/10.1061/9780784486504.018](https://doi.org/10.1061/9780784486504.018){:target="_blank" rel="noopener"}.
 
 
 > 20\.
 <u>Katuwal, S.</u>, **Pretell, R.**, Bayless, J. R., Motamed, R., and Abrahamson N. A. (2025).
-“Toward advancing ground motion model predictions for the Sierras region in Eastern Calfornia.”
+“Toward advancing ground motion model predictions for the Sierras region in Eastern California.”
 *2025 Seminar on Utilization Strong-Motion Data.*
 Sacramento, CA.
 
@@ -225,7 +225,7 @@ Sacramento, CA.
 **Pretell, R.**, Humire, F., and Ziotopoulou, K. (2020).
 “On the performance of two advanced constitutive models in capturing the element response of tailings.”
 In: *Proceedings of the Tailings and Mine Waste 2020.* 
-Keystone, CO, Nobember 15-18. 
+Keystone, CO, November 15-18. 
 
 
 > 8\.
@@ -344,6 +344,7 @@ DesignSafe-CI.
 DesignSafe-CI. 
 [https://doi.org/10.17603/ds2-27yr-5m86](https://doi.org/10.17603/ds2-27yr-5m86){:target="_blank" rel="noopener"}.
 
+
 > 4\.
 **Pretell, R.**, Ziotopoulou, K., Watson-Lamprey, J., Sinha, S., and Zekkos, D. (2023). 
 Acceleration time series at depth for 21 seismic stations in California: Application of the double convolution methodology. 
@@ -396,7 +397,7 @@ B.S. thesis, National University of Engineering (UNI), Lima, Peru.
 Lee, J., Bastias, N., <u>Katuwal, S.</u>, Cabas, A., **Pretell, R.**, and Montalva, G. (2025). 
 *Understanding the performance of ground motion models in megathrust tectonic environments.* 
 CRESCENT Open Documents Library. 
-[https://doi.org/10.5281/zenodo.17180284){:target="_blank" rel="noopener"}.
+[https://doi.org/10.5281/zenodo.17180284](https://doi.org/10.5281/zenodo.17180284){:target="_blank" rel="noopener"}.
 **Accessible [here](https://doi.org/10.5281/zenodo.17180284){:target="_blank" rel="noopener"}.**
 
 
@@ -407,25 +408,30 @@ Report submitted to CALTRANS. GIRS-2024-02.
 [https://doi.org/10.34948/N35K59](https://doi.org/10.34948/N35K59){:target="_blank" rel="noopener"}.
 **Accessible [here](https://doi.org/10.34948/N35K59){:target="_blank" rel="noopener"}.**
 
+
 >9\.
-Ulmer K.J., Hudson K.S., Brandenberg S.J., Zimmaro P., **Pretell R.**, Carlton B., Kramer S.L., and Stewart J.P. (2024). 
+Ulmer, K. J., Hudson, K. S., Brandenberg, S. J., Zimmaro, P., **Pretell, R.**, Carlton, B., Kramer, S. L., and Stewart, J. P. (2024). 
 *Next Generation Liquefaction Models for Susceptibility, Triggering, and Manifestation.* 
 Prepared for the U.S. Nuclear Regulatory Commission (NRC), RIL 2024-13. ML24268A229. 
+
 
 >8\.
 **Pretell, R.**, Ziotopoulou, K., Sinha, S. K., Watson-Lamprey, J. A., and Zekkos, D. (2023). 
 *Broadening the utilization of CSMIP data: Double convolution methodology towards developing input motions for site response and nonlinear deformation analyses.* 
 Strong Motion Instrumentation Program (SMIP). Sacramento, CA.
 
+
 >7\.
 Ulmer, K. J., Hudson, K. S., Brandenberg, S. J., Zimmaro, P., **Pretell, R.**, Carlton, B., Kramer, S. L., and Stewart, J. P. (2023). 
 *Task 7B: Draft final report documenting probabilistic liquefaction models.* 
 Prepared for the U.S. Nuclear Regulatory Commission (NRC). 
 
+
 >6\.
 Buckreis, T. E., Güryuva, B., Içen, A., Okçu, O., Altindal, A., Aydin, M., **Pretell, R.**, Sandikkaya, A., Kale, Ö., Askan, A., Brandenberg, S. J., Kishida, T., Akkar, S., Cetin, Ö., Bozorgnia, Y., Stewart, J. P. (2023). 
 *February 6, 2023, Türkiye Earthquakes: Report on Geoscience and Engineering Impacts. Chapter 3: Ground motions.* 
 Geotechnical Extreme Event Reconnaissance (GEER) Association. 
+
 
 > 5\.
 Basu, D., **Pretell, R.**, Montgomery, J., and Ziotopoulou, K. (2021). 

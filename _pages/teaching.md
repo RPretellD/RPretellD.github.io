@@ -21,7 +21,7 @@ author_profile: true
 ## **<u>CEE-741: SEEPAGE AND SLOPE STABILITY</u>**
 >
 - Introduction
-- Shear strenght of soils
+- Shear strength of soils
 - Seepage and piping
 - Slope stability
 - Embankment deformations
