@@ -12,7 +12,7 @@ author_profile: true
 > 12\.
 **Pretell, R.**, Brandenberg, S.J., and Stewart, J.P. (2026).
 “Ground motion intensity measures at liquefaction field case history sites.” 
-*Journal of Geotechnical and Geoenvironmental Engineering*
+*Journal of Geotechnical and Geoenvironmental Engineering.*
 *Accepted.*
 
 
