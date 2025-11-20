@@ -9,10 +9,12 @@ author_profile: true
 ## **<u>JOURNAL PUBLICATIONS</u>**
 
 
-> 
-**Pretell, R.**, Brandenberg, S.J., and Stewart, J.P. 
+> 12\.
+**Pretell, R.**, Brandenberg, S.J., and Stewart, J.P. (2026).
 “Ground motion intensity measures at liquefaction field case history sites.” 
-*In review.*
+*Journal of Geotechnical and Geoenvironmental Engineering*
+*Accepted.*
+
 
 > 11\.
 Buckreis, T.E., Nweke, C.C., Wang, P., Brandenberg, S.J., Ramos-Sepulveda, M.E., Shams, R., **Pretell, R.**, Mazzoni, S., Zimmaro, P., and Stewart, J.P. (2025).
@@ -23,7 +25,7 @@ Buckreis, T.E., Nweke, C.C., Wang, P., Brandenberg, S.J., Ramos-Sepulveda, M.E.,
 
 
 > 10\.
-**Pretell, R.**, Ziotopoulou, K., Watson-Lamprey, J.A., Sinha, S. K., and Zekkos, D. (2025). 
+**Pretell, R.**, Ziotopoulou, K., Watson-Lamprey, J.A., Sinha, S.K., and Zekkos, D. (2025). 
 “Double convolution methodology for developing input ground motions for site response and nonlinear dynamic analyses.” 
 *Journal of Geotechnical and Geoenvironmental Engineering* 151(9): 04025097. 
 [https://doi.org/10.1061/JGGEFK.GTENG-12499](https://doi.org/10.1061/JGGEFK.GTENG-12499){:target="_blank" rel="noopener"}.
@@ -44,7 +46,7 @@ Liou, I., Abrahamson, N.A., and **Pretell, R.** (2024).
 
 
 > 7\.
-Buckreis, T.E., **Pretell, R.**, Askan, A., Sandikkaya, M.A., Kale, O., Brandenberg, S.J., and Stewart J.P. (2024).
+Buckreis, T.E., **Pretell, R.**, Askan, A., Sandikkaya, M.A., Kale, O., Brandenberg, S.J., and Stewart, J.P. (2024).
 “Engineering attributes of ground motions from February 2023 Türkiye Earthquake Event Sequence.”
 *Earthquake Spectra* 40(4): 2268–2284. Special Issue: 2023 Kahramanmaraş, Turkey, Earthquake. 
 [https://doi.org/10.1177/87552930241259024](https://doi.org/10.1177/87552930241259024){:target="_blank" rel="noopener"}.
@@ -88,7 +90,8 @@ Basu, D., **Pretell, R.**, Montgomery, J., and Ziotopoulou, K. (2022).
 [https://doi.org/10.1016/j.soildyn.2022.107243](https://doi.org/10.1016/j.soildyn.2022.107243){:target="_blank" rel="noopener"}.
 
 
-> 1\. **Pretell, R.**, Ziotopoulou, K., and Davis, C.A. (2021).
+> 1\. 
+**Pretell, R.**, Ziotopoulou, K., and Davis, C.A. (2021).
 “Liquefaction and cyclic softening at Balboa Blvd. during the 1994 Northridge Earthquake.”
 *Journal of Geotechnical and Geoenvironmental Engineering* 147(2): 05020014.
 [https://doi.org/10.1061/(ASCE)GT.1943-5606.0002417](https://doi.org/10.1061/(ASCE)GT.1943-5606.0002417){:target="_blank" rel="noopener"}.
@@ -99,8 +102,16 @@ Basu, D., **Pretell, R.**, Montgomery, J., and Ziotopoulou, K. (2022).
 
 
 > 
-**Pretell, R.**, <u>Katuwal, S.</u>, Huaman, A., and Motamed, R. 
-“Assessing analytical solutions for vertical site response: Insights from the Service Hall Array.” 
+Lee, J., Bastias, N., <u>Katuwal, S.</u>, Montalva, G., **Pretell, R.**, and Cabas, A. 
+“Evaluating the performance of ground motion models for subduction environments using data from Chile, Peru and the Cascadia Subduction Zone.” 
+In: *Proceedings of the 13<sup>th</sup> National Conference on Earthquake Engineering.* 
+Portland, OR, July 13-17, 2026. 
+*In review.* 
+
+
+> 
+Mivehchi, M., Ziotopoulou, K., **Pretell, R.**, Davis, C., Harada, K., Kagawa, T., and Kaneko, S. 
+“Influence of ground motion pulse and soil characterization on ground failure at Balboa Blvd. during the 1994 Northridge Earthquake.” 
 In: *Proceedings of the 13<sup>th</sup> National Conference on Earthquake Engineering.* 
 Portland, OR, July 13-17, 2026. 
 *In review.* 
@@ -114,8 +125,16 @@ Portland, OR, July 13-17, 2026.
 *In review.* 
 
 
+> 
+**Pretell, R.**, <u>Katuwal, S.</u>, Huaman, A., and Motamed, R. 
+“Assessing analytical solutions for vertical site response: Insights from the Service Hall Array.” 
+In: *Proceedings of the 13<sup>th</sup> National Conference on Earthquake Engineering.* 
+Portland, OR, July 13-17, 2026. 
+*In review.* 
+
+
 > 23\.
-<u>Katuwal, S.</u>, and **Pretell, R.**
+<u>Katuwal, S.</u>, and **Pretell, R.** (2026).
 “Site response for nearly vertical incident P and SV waves.” 
 In: *Proceedings of GeoCongress 2026.* 
 Salt Lake City, UT, March 9-12, 2026. 
@@ -123,7 +142,7 @@ Salt Lake City, UT, March 9-12, 2026.
 
 
 > 22\.
-Numanoglu, O. A., **Pretell, R.**, and Hutabarat, D.
+Numanoglu, O.A., **Pretell, R.**, and Hutabarat, D. (2026).
 “Seismic settlement analysis of Nihal Atakaş Mosque: A comparison of field observations, empirical and semi-empirical estimates, and 3D seismic soil-structure interaction simulation results.” 
 In: *Proceedings of GeoCongress 2026.* 
 Salt Lake City, UT, March 9-12, 2026. 
@@ -131,7 +150,7 @@ Salt Lake City, UT, March 9-12, 2026.
 
 
 > 21\.
-**Pretell, R.**, Brandenberg, S. J., Stewart, J. P., Gingery, J. R., and Zafir, Z. (2025).
+**Pretell, R.**, Brandenberg, S.J., Stewart, J.P., Gingery, J.R., and Zafir, Z. (2025).
 “Relationship between factors of safety against liquefaction triggering and liquefaction effects on ground motions.”
 In: *Proceedings of GeoExtreme 2025.* 
 Long beach, CA, November 2-5, 2025. 
@@ -139,7 +158,7 @@ Long beach, CA, November 2-5, 2025.
 
 
 > 20\.
-<u>Katuwal, S.</u>, **Pretell, R.**, Bayless, J. R., Motamed, R., and Abrahamson N. A. (2025).
+<u>Katuwal, S.</u>, **Pretell, R.**, Bayless, J.R., Motamed, R., and Abrahamson N.A. (2025).
 “Toward advancing ground motion model predictions for the Sierras region in Eastern California.”
 *2025 Seminar on Utilization Strong-Motion Data.*
 Sacramento, CA.
@@ -279,7 +298,7 @@ Lima, Peru, September 23-26, 2012.
 
 
 > 1\.
-Borja, R. N., **Pretell, A.R.**, and Parra, D. (2012).
+Borja, R.N., **Pretell, A.R.**, and Parra, D. (2012).
 “Comparación de curvas de módulo de corte con resultados triaxiales cíclicos y análisis de respuesta sísmica.”
 In: *Proceedings of the 20<sup>th</sup> National Congress of Civil Engineering and 8<sup>th</sup> International Congress of Civil Engineering.*
 Huaraz, Peru, August, 2012. 
@@ -378,13 +397,13 @@ DesignSafe-CI.
 
 
 > 2\. 
-**Pretell Ductram, A. R.** (2022). 
+**Pretell Ductram, A.R.** (2022). 
 *Accounting for V<sub>S</sub> spatial variability and modeling errors in 1D site response analyses.* 
 Ph.D. dissertation, University of California Davis, CA, United States. 
 
 
 > 1\. 
-**Pretell Ductram, A. R.** (2014).
+**Pretell Ductram, A.R.** (2014).
 *Microzonificación sísmica para el ámbito de la ciudad de Pisco, y distritos de San Clemente, Túpac Amaru, San Andrés y Paracas.* 
 B.S. thesis, National University of Engineering (UNI), Lima, Peru.
 
@@ -402,7 +421,7 @@ CRESCENT Open Documents Library.
 
 
 >10\.
-**Pretell, R.**, Brandenberg, S. J., and Stewart, J. P. (2024). 
+**Pretell, R.**, Brandenberg, S.J., and Stewart, J.P. (2024). 
 *Ground motion intensity measures at liquefaction field case history sites.* 
 Report submitted to CALTRANS. GIRS-2024-02. 
 [https://doi.org/10.34948/N35K59](https://doi.org/10.34948/N35K59){:target="_blank" rel="noopener"}.
@@ -410,25 +429,25 @@ Report submitted to CALTRANS. GIRS-2024-02.
 
 
 >9\.
-Ulmer, K. J., Hudson, K. S., Brandenberg, S. J., Zimmaro, P., **Pretell, R.**, Carlton, B., Kramer, S. L., and Stewart, J. P. (2024). 
+Ulmer, K.J., Hudson, K.S., Brandenberg, S.J., Zimmaro, P., **Pretell, R.**, Carlton, B., Kramer, S.L., and Stewart, J.P. (2024). 
 *Next Generation Liquefaction Models for Susceptibility, Triggering, and Manifestation.* 
 Prepared for the U.S. Nuclear Regulatory Commission (NRC), RIL 2024-13. ML24268A229. 
 
 
 >8\.
-**Pretell, R.**, Ziotopoulou, K., Sinha, S. K., Watson-Lamprey, J. A., and Zekkos, D. (2023). 
+**Pretell, R.**, Ziotopoulou, K., Sinha, S.K., Watson-Lamprey, J.A., and Zekkos, D. (2023). 
 *Broadening the utilization of CSMIP data: Double convolution methodology towards developing input motions for site response and nonlinear deformation analyses.* 
 Strong Motion Instrumentation Program (SMIP). Sacramento, CA.
 
 
 >7\.
-Ulmer, K. J., Hudson, K. S., Brandenberg, S. J., Zimmaro, P., **Pretell, R.**, Carlton, B., Kramer, S. L., and Stewart, J. P. (2023). 
+Ulmer, K.J., Hudson, K.S., Brandenberg, S.J., Zimmaro, P., **Pretell, R.**, Carlton, B., Kramer, S.L., and Stewart, J.P. (2023). 
 *Task 7B: Draft final report documenting probabilistic liquefaction models.* 
 Prepared for the U.S. Nuclear Regulatory Commission (NRC). 
 
 
 >6\.
-Buckreis, T. E., Güryuva, B., Içen, A., Okçu, O., Altindal, A., Aydin, M., **Pretell, R.**, Sandikkaya, A., Kale, Ö., Askan, A., Brandenberg, S. J., Kishida, T., Akkar, S., Cetin, Ö., Bozorgnia, Y., Stewart, J. P. (2023). 
+Buckreis, T.E., Güryuva, B., Içen, A., Okçu, O., Altindal, A., Aydin, M., **Pretell, R.**, Sandikkaya, A., Kale, Ö., Askan, A., Brandenberg, S.J., Kishida, T., Akkar, S., Cetin, Ö., Bozorgnia, Y., Stewart, J.P. (2023). 
 *February 6, 2023, Türkiye Earthquakes: Report on Geoscience and Engineering Impacts. Chapter 3: Ground motions.* 
 Geotechnical Extreme Event Reconnaissance (GEER) Association. 
 
