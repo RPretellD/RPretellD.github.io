@@ -41,7 +41,7 @@ Moss, R.E.S., Altunel, E., Bassal, P., Bray, J.B., Buckreis, T., Cetin, O.K., Cl
 > 8\.
 Liou, I., Abrahamson, N.A., and **Pretell, R.** (2024). 
 “Approaches to soil hazard in partially non-ergodic ground motion models.” 
-*Bulletin of the Seismological Society of America 114* (6): 3158–3170. 
+*Bulletin of the Seismological Society of America* 114(6): 3158–3170. 
 [https://doi.org/10.1785/0120230316](https://doi.org/10.1785/0120230316){:target="_blank" rel="noopener"}.
 
 

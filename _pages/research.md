@@ -83,7 +83,7 @@ author_profile: true
 			<img src="/images/VSRA.png" alt="AFliq" style="width:100%; height:auto; border-radius:6px;">
 			
 			<figcaption style="text-align:center; font-size:0.9em; color:#555;">
-				Vertical site response for a hypothetical site (Katuwal and Pretell, in review).
+				Vertical site response for a hypothetical site (Katuwal and Pretell 2026).
 				<em>
 					TF<sub>x</sub> and TF<sub>z</sub> are the transfer functions for horizontal and vertical shaking, respectively. 
 				</em>

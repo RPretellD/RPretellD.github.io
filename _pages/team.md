@@ -21,7 +21,7 @@ author_profile: false
     "full  full";
   column-gap: 30px;
   row-gap: 10px;
-  align-items: start;
+  align-items: center;
 }
 
 .team-member img {
@@ -55,86 +55,10 @@ author_profile: false
 </style>
 
 
-
-<!-- About Renmin -->
-
-<br>
-<h1 class="team-section" style="text-align:center; text-decoration:underline;">
-	PRINCIPAL INVESTIGATOR
-</h1>
-<br>
-
-<div class="team-grid">
-
-	<div class="team-member">
-		
-		<img src="/images/RPretell_3.JPG" alt="Renmin Pretell">
-
-		<!-- Text on the right of the headshot -->
-		<div class="team-text">
-		
-			<h1 style="margin:0;">
-				Renmin Pretell, PhD
-			</h1>
-			<br>
-		
-			<h2>
-				Education
-			</h2>
-			
-			<ul>
-				<li>PhD, University of California, Davis, CA, 2022</li>
-				<li>MS, University of California, Davis, CA, 2019</li>
-				<li>BS <em>(Summa Cum Laude)</em>, Universidad Nacional de Ingeniería (UNI), Peru, 2012</li>
-			</ul>
-		
-		</div>
-
-		<!-- Text below the headshot -->
-		<div class="team-bio">
-
-			<h2>
-				Employment history
-			</h2>
-			
-			<ul>
-				<li><em>08/2023 – Present</em> &nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor, University of Nevada, Reno, NV</li>
-				<li><em>10/2022 – 07/2023</em> &nbsp;&nbsp;Postdoctoral Scholar, University of California, Los Angeles, CA</li>
-				<li><em>09/2017 – 09/2022</em> &nbsp;&nbsp;Graduate Student Researcher, University of California, Davis, CA</li>			
-				<li><em>09/2015 – 08/2017</em> &nbsp;&nbsp;Project Engineer, Golder Associates, Denver, CO</li>
-				<li><em>01/2013 – 08/2015</em> &nbsp;&nbsp;Staff Engineer, Golder Associates, Peru</li>
-<!--				<li><em>01/2010 – 04/2012</em> &nbsp;&nbsp;Research Assistant, CISMID, Peru</li> -->
-			</ul>
-
-			<h2>
-				Honors and awards
-			</h2>
-
-			<ul>
-				<li>2025 International Research Seed Funding Competition, CTBUH, 2025</li>
-				<li>ExCEEd Teaching Fellow, ASCE, 2025</li>
-				<li>DesignSafe Dataset Award, NHERI, 2024</li>
-				<li>Earthquake Spectra Outstanding Reviewer, EERI, 2023</li>
-				<li>Building Future Faculty, NCSU, 2022</li>
-				<li>Haley & Aldrich Diversity and Equity essay contest winner, 2021</li>
-				<li>Patrick C. Lucia Geotechnical Engineering Scholarship, 2019</li>
-				<li>Excellence Rating on thesis defense, UNI, 2014</li>
-				<li>Top Student 2012-I, UNI, Rank: 1/120, 2012</li>
-				<li>Best Research Project 2012, UNI, 2012</li>
-				<li>Santiago Antúnez de Mayolo Scholarship, UNI, 2010</li>
-			</ul>
-		</div>
-	</div>
-
-</div>
-
-
-
-
 <!-- Renmin's students -->
 
 <br>
-<h1 class="team-section" style="text-align:center; text-decoration:underline;"> GRADUATE RESEARCH ASSISTANTS </h1>
+<h1 class="team-section" style="text-align:center; text-decoration:underline;"> TEAM </h1>
 <br>
 
 <div class="team-grid">
@@ -173,7 +97,7 @@ author_profile: false
 			<br>
 			
 			<p><strong>Research areas<br></strong>
-				Seismic site response, V_S profile uncertainty</p>
+				Seismic site response, V<sub>S</sub> profile uncertainty</p>
 			
 			<p><strong>Degree objective:&nbsp;&nbsp;&nbsp;</strong>
 				MS (expected: Dec. 2026)</p>

@@ -65,6 +65,8 @@ My combined experience in industry and academia shaped my goal of bridging the t
 We aim to study real-world problems with a fundamental perspective to produce knowledge that is scientifically sound 
 and useful to the industry. 
 
+[About Renmin Pretell]({{ "/about_Renmin/" | relative_url }}){:target="_blank" rel="noopener"}.
+
 [Join our group]({{ "/opportunities/" | relative_url }}){:target="_blank" rel="noopener"}.
 
 <!-- ## **<u>CONTACT</u>** -->
@@ -85,4 +87,4 @@ University of Nevada, Reno<br>
 <br>
 <br>
 
-<small><span style="color: #777;"><em>Last updated: September 4, 2025</em></span></small>
+<small><span style="color: #777;"><em>Last updated on 11/29/2025</em></span></small>
