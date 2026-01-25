@@ -20,7 +20,7 @@ redirect_from:
 
 <figure style="margin: 0 auto 0.5rem auto; max-width: 900px;">
 
-	<img src="/images/GroupPic_welcome_CC_2025_07_25.jpg" alt="Research group photo" 
+	<img src="/images/GroupPic_Welcome_CC_2025_07_25.jpg" alt="Research group photo" 
 		style="width:100%; height:auto; border-radius:6px; display:block; margin:0 auto;">
 
 	<figcaption style="font-size:0.95em; color:#555; text-align:center; max-width:900px; margin:0 auto; margin-top:0.5rem; ">
