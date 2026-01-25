@@ -1,5 +1,5 @@
 ---
-layout: single
+<!-- layout: single -->
 permalink: /research/
 author_profile: true
 ---
@@ -172,7 +172,10 @@ author_profile: true
 			
 			<figcaption style="display:block; text-align:center; font-size:0.9em; color:#555;">
 			
-				Variation of amplification factor liquefaction (AF<sub>liq</sub>) with factors of safety against liquefaction triggering (Pretell et al. 2025). 
+				Variation of amplification factor liquefaction (AF<sub>liq</sub>) with factors of safety against liquefaction triggering 				<a
+				href="https://doi.org/10.1061/9780784486504.018" target="_blank" rel="noopener">
+					(Pretell et al. 2025)
+				</a>.
 				<em>
 					AF<sub>liq</sub> is defined as the ratio of the pseudo-spectral acceleration at ground surface computed considering and neglecting the effect of 
 					excess porewater pressure. 

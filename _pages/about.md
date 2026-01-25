@@ -20,11 +20,11 @@ redirect_from:
 
 <figure style="margin: 0 auto 0.5rem auto; max-width: 900px;">
 
-	<img src="/images/team_2025_07_25.jpg" alt="Research group photo" 
+	<img src="/images/GroupPic_welcome_CC_2025_07_25.jpg" alt="Research group photo" 
 		style="width:100%; height:auto; border-radius:6px; display:block; margin:0 auto;">
 
-	<figcaption style="font-size:0.9em; color:#555; margin-top:0.2rem; text-align:center; max-width:900px; margin:0 auto;">
-	
+	<figcaption style="font-size:0.95em; color:#555; text-align:center; max-width:900px; margin:0 auto; margin-top:0.5rem; ">
+
 		Welcoming Carlos and Cesar to the University of Nevada, Reno. July, 2025.
 		<br>
 		<em>
@@ -87,4 +87,4 @@ University of Nevada, Reno<br>
 <br>
 <br>
 
-<small><span style="color: #777;"><em>Last updated on 11/29/2025</em></span></small>
+<small><span style="color: #777;"><em>Last updated on 01/24/2026</em></span></small>

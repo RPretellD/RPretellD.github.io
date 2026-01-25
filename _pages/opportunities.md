@@ -1,5 +1,5 @@
 ---
-layout: single
+<!-- layout: single -->
 title: ""
 permalink: /opportunities/
 author_profile: true

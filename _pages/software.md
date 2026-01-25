@@ -1,5 +1,5 @@
 ---
-layout: single
+<!-- layout: single -->
 title: ""
 permalink: /software/
 author_profile: true

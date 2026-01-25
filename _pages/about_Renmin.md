@@ -98,6 +98,7 @@ permalink: /about_Renmin/
 			</h2>
 
 			<ul>
+				<li>2026 Younger Member Award, EERI, 2026</li>
 				<li>2025 International Research Seed Funding Competition, CTBUH, 2025</li>
 				<li>ExCEEd Teaching Fellow, ASCE, 2025</li>
 				<li>DesignSafe Dataset Award, NHERI, 2024</li>

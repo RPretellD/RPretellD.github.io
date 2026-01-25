@@ -1,10 +1,11 @@
 ---
-layout: single
+<!-- layout: single -->
 title: ""
 permalink: /publications/
 author_profile: true
 ---
 
+*Underlining identifies students from Prof. Pretell’s research group ([rpretell.com/team/](https://rpretell.com/team/){:target="_blank" rel="noopener"})*
 
 ## **<u>JOURNAL PUBLICATIONS</u>**
 
@@ -92,7 +93,7 @@ Basu, D., **Pretell, R.**, Montgomery, J., and Ziotopoulou, K. (2022).
 
 > 1\. 
 **Pretell, R.**, Ziotopoulou, K., and Davis, C.A. (2021).
-“Liquefaction and cyclic softening at Balboa Blvd. during the 1994 Northridge Earthquake.”
+“Liquefaction and cyclic softening at Balboa Boulevard during the 1994 Northridge Earthquake.”
 *Journal of Geotechnical and Geoenvironmental Engineering* 147(2): 05020014.
 [https://doi.org/10.1061/(ASCE)GT.1943-5606.0002417](https://doi.org/10.1061/(ASCE)GT.1943-5606.0002417){:target="_blank" rel="noopener"}.
 
@@ -153,12 +154,12 @@ Salt Lake City, UT, March 9-12, 2026.
 **Pretell, R.**, Brandenberg, S.J., Stewart, J.P., Gingery, J.R., and Zafir, Z. (2025).
 “Relationship between factors of safety against liquefaction triggering and liquefaction effects on ground motions.”
 In: *Proceedings of GeoExtreme 2025.* 
-Long beach, CA, November 2-5, 2025. 
+Long Beach, CA, November 2-5, 2025. 
 [https://doi.org/10.1061/9780784486504.018](https://doi.org/10.1061/9780784486504.018){:target="_blank" rel="noopener"}.
 
 
 > 20\.
-<u>Katuwal, S.</u>, **Pretell, R.**, Bayless, J.R., Motamed, R., and Abrahamson N.A. (2025).
+<u>Katuwal, S.</u>, **Pretell, R.**, Bayless, J.R., Motamed, R., and Abrahamson, N.A. (2025).
 “Toward advancing ground motion model predictions for the Sierras region in Eastern California.”
 *2025 Seminar on Utilization Strong-Motion Data.*
 Sacramento, CA.
@@ -227,7 +228,7 @@ Los Angeles, CA.
 
 > 11\. 
 Ziotopoulou, K., Davis, C.A., and **Pretell, R.** (2022).
-“Investigation of water pipeline failures at Balboa Blvd. during the 1994 Northridge Earthquake.”
+“Investigation of water pipeline failures at Balboa Boulevard during the 1994 Northridge Earthquake.”
 In: *Proceedings of the Lifelines 2021.* 
 Los Angeles, CA, January 31-February 11, 2022. 
 [https://doi.org/10.1061/9780784484449.032](https://doi.org/10.1061/9780784484449.032){:target="_blank" rel="noopener"}.
@@ -475,6 +476,6 @@ DesignSafe-CI, Dataset, 10.17603/DS2MQ38.
 
 
 > 1\. 
-Mosalam, K., Kijewski-Correa, T., Hassan, W., Archbold, J., Marshall, J., Mavroeidis, G., Muin, S. Mulchandani, H., Peng, H., **Pretell Ductram, A.R.**, Prevatt, D., Robertson, I. and Roueche, D. (2018). 
+Mosalam, K., Kijewski-Correa, T., Hassan, W., Archbold, J., Marshall, J., Mavroeidis, G., Muin, S., Mulchandani, H., Peng, H., **Pretell Ductram, A.R.**, Prevatt, D., Robertson, I. and Roueche, D. (2018). 
 *STEER – EERI Alaska earthquake: Preliminary virtual assessment team (P-VAT) joint report.*
 DesignSafe-CI, Dataset, 10.17603/ds2-xqfh-1631.
