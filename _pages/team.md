@@ -153,14 +153,14 @@ author_profile: false
 			</p>
 	  
 		</div>
-    </div>
+	</div>
 	
-</div>
+<!-- </div>-->
 
 <!-- <h1 class="master students section" style="text-align:left; font-style:italic;">Master students</h1>
 <br> -->
 
-<div class="team-grid">
+<!-- <div class="team-grid">-->
 
 	<div class="team-member">
 		<img src="/images/Carlos.jpg" alt="Carlos Fernandez">
@@ -181,9 +181,9 @@ author_profile: false
 			Before UNR, Carlos worked as a Research Assistant at CISMID (Peru). Carlos’ research interests include geotechnical earthquake 
 			engineering, dynamic soil behavior, and programming applications in Python for data analysis.
 			</p>
-	  
+
 		</div>
-    </div>
+	</div>
 
 	<div class="team-member">
 		<img src="/images/Cesar.jpeg" alt="Cesar Sanchez">
@@ -204,39 +204,40 @@ author_profile: false
 			Cesar spent three years with WSP at the Lima office working in tailings dam projects. 
 			Cesar’s research interests include mine tailings and soil spatial variability. 
 			</p>
-	  
+
 		</div>
-    </div>
-</div>
+	</div>
+<!-- </div>-->
 	
-<!-- 
-<br>
+
+<!-- <br>
 <h1 class="undergrad students section" style="text-align:left; font-style:italic;">Undergraduate students</h1>
+-->
 
 	<div class="team-member">
-		<img src="/images/name.jpg" alt="Name">
-	
+		<img src="/images/headshot_placeholder.png" alt="Placeholder">
+
 		<div class="team-text">
-	
-			<h1 style="margin:0;"> Name </h1>
+
+			<h1 style="margin:0;"> Jessica Resong </h1>
 			<br>
 			
 			<p><strong>Research areas<br></strong>
-				Seismic site response, V<sub>S</sub> profile uncertainty</p>
+				Site characterization, V<sub>S</sub> profile data</p>
 			
 			<p><strong>Degree objective:&nbsp;&nbsp;&nbsp;</strong>
-				MS (expected: Dec. 2026)</p>
+				BS (expected: 2029)</p>
 				
 			<p>
-			Carlos earned his Bachelor’s degree in Civil Engineering from the National University of Engineering in Lima, Peru. 
-			Before UNR, Carlos worked as a Research Assistant at CISMID (Peru). Carlos' research interests include geotechnical earthquake 
-			engineering, dynamic soil behavior, and programming applications in Python for data analysis.
+			Jessica is currently pursuing a Bachelor’s degree in Mechanical Engineering at the University of Nevada, Reno, 
+			with minors in Aerospace and Mathematics. She is a member of the UNR Honors College and has been recognized on 
+			the Dean’s list.
 			</p>
-	  
+
 		</div>
-    </div>
-	
-</div> -->
+	</div>
+
+</div>
 
 <hr>
 

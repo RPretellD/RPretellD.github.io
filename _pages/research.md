@@ -125,30 +125,6 @@ author_profile: true
 	</div>
 
 
-<!--
-	<div class="topic">
-	  
-		<h1 style="margin:0;">
-			Turnagain Heights case history
-		</h1>
-		<br>
-
-		<em><p><strong>Team:</strong>
-		Cesar Sanchez, Robb Moss, Renmin Pretell
-		</p></em>
-
-		**Description.** We quantify how spatial variability of soils drives
-		system-level risk in tailings storage facilities, linking material
-		heterogeneity to failure modes and resilience planning.
-
-		<figure>
-			<img src="/images/research_gmm_01.jpg" alt="Kriging-based ground motion map" style="width:100%; height:auto; border-radius:6px;">
-			
-			<figcaption><em>Interpolated PGA map from sparse stations (M<sub>w</sub> 6.5 scenario).</em></figcaption>
-	  </figure>
-	</div>
--->
-
 
 	<div class="topic">
 
@@ -185,3 +161,67 @@ author_profile: true
 	</div>
 
 </div>
+
+
+
+<hr style="margin: 60px 0 30px 0;">
+
+<h2 style="text-align:left;">
+	<b>SPONSORS</b>
+</h2>
+
+<p class="sponsor-text">
+The financial support from the following organizations is greatly appreciated. 
+</p>
+
+<div class="sponsor-grid">
+
+	<div class="sponsor-item">
+		<img src="/images/Logo_CA_DOC.png" alt="California Department of Conservation">
+	</div>
+
+	<div class="sponsor-item">
+		<img src="/images/Logo_USGS2.png" alt="US Geological Survey">
+	</div>
+
+	<div class="sponsor-item">
+		<img src="/images/Logo_CVU2.png" alt="Council on Vertical Urbanism">
+	</div>
+
+	<div class="sponsor-item sponsor-dark">
+		<img src="/images/Logo_CRESCENT2.png" alt="Cascadia Region Earthquake Science Center">
+	</div>
+
+</div>
+
+
+<style>
+
+.sponsor-grid {
+	display: grid;
+grid-template-columns: repeat(2, 1fr);
+	gap: 50px;
+	max-width: 750px;
+	margin: 80px 0 40px 0;
+}
+
+.sponsor-item {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 120px;
+}
+
+.sponsor-item img {
+	max-height: 120px;
+	max-width: 280px;
+	object-fit: contain;
+}
+
+.sponsor-dark img {
+	background: #000;
+	padding: 6px;
+	border-radius: 6px;
+}
+
+</style>

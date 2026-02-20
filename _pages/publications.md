@@ -20,7 +20,7 @@ author_profile: true
 > 11\.
 Buckreis, T.E., Nweke, C.C., Wang, P., Brandenberg, S.J., Ramos-Sepulveda, M.E., Shams, R., **Pretell, R.**, Mazzoni, S., Zimmaro, P., and Stewart, J.P. (2025).
 “A global Application Programming Interface-enabled earthquake ground motion relational database for engineering applications.” 
-*Earthquake Spectra.*
+*Earthquake Spectra* 41(5): 4162-4194. 
 [https://doi.org/10.1177/87552930251344978](https://doi.org/10.1177/87552930251344978){:target="_blank" rel="noopener"}.
 **[Open access.](https://doi.org/10.1177/87552930251344978){:target="_blank" rel="noopener"}**
 
@@ -102,36 +102,36 @@ Basu, D., **Pretell, R.**, Montgomery, J., and Ziotopoulou, K. (2022).
 ## **<u>CONFERENCE PROCEEDINGS</u>**
 
 
-> 
+> 27\.
 Lee, J., Bastias, N., <u>Katuwal, S.</u>, Montalva, G., **Pretell, R.**, and Cabas, A. 
 “Evaluating the performance of ground motion models for subduction environments using data from Chile, Peru and the Cascadia Subduction Zone.” 
 In: *Proceedings of the 13<sup>th</sup> National Conference on Earthquake Engineering.* 
 Portland, OR, July 13-17, 2026. 
-*In review.* 
+*Accepted.* 
 
 
-> 
+> 26\.
 Mivehchi, M., Ziotopoulou, K., **Pretell, R.**, Davis, C., Harada, K., Kagawa, T., and Kaneko, S. 
 “Influence of ground motion pulse and soil characterization on ground failure at Balboa Blvd. during the 1994 Northridge Earthquake.” 
 In: *Proceedings of the 13<sup>th</sup> National Conference on Earthquake Engineering.* 
 Portland, OR, July 13-17, 2026. 
-*In review.* 
+*Accepted.* 
 
 
-> 
+> 25\.
 Numanoglu, O.A., and **Pretell, R.** 
 “Three-dimensional finite element simulation of a soil-structure system using double convolution-based input ground motions.” 
 In: *Proceedings of the 13<sup>th</sup> National Conference on Earthquake Engineering.* 
 Portland, OR, July 13-17, 2026. 
-*In review.* 
+*Accepted.* 
 
 
-> 
+> 24\.
 **Pretell, R.**, <u>Katuwal, S.</u>, Huaman, A., and Motamed, R. 
 “Assessing analytical solutions for vertical site response: Insights from the Service Hall Array.” 
 In: *Proceedings of the 13<sup>th</sup> National Conference on Earthquake Engineering.* 
 Portland, OR, July 13-17, 2026. 
-*In review.* 
+*Accepted.* 
 
 
 > 23\.
@@ -309,42 +309,40 @@ Huaraz, Peru, August, 2012.
 ## **<u>SOFTWARE</u>**
 
 
-*Find some example applications [here](https://renminpretell.github.io/software/){:target="_blank" rel="noopener"}.* 
-
-> **Pretell, R.**, and Brandenberg, S. (2023). 
-*separability_index: A suite of tools to assess the separability of two datasets (0.1.0).* 
+> **Pretell, R.** (2026). 
+*geostats: A suite of geostatistical tools (v1.0.0).*
 Zenodo. 
-[https://doi.org/10.5281/zenodo.10404856](https://doi.org/10.5281/zenodo.10404856){:target="_blank" rel="noopener"}. 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10404856.svg)](https://doi.org/10.5281/zenodo.10404856){:target="_blank" rel="noopener"}
+[https://doi.org/10.5281/zenodo.10253690](https://doi.org/10.5281/zenodo.10253690){:target="_blank" rel="noopener"}. 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10253690.svg)](https://doi.org/10.5281/zenodo.10253690){:target="_blank" rel="noopener"} 
 
 
-> **Pretell, R.** (2023). 
-*geostats: A suite of geostatistical tools (0.1.0).*
+> **Pretell, R.** (2026). 
+*gmms: Ground motion models and supporting tools (v0.2.0).* 
 Zenodo. 
-[https://doi.org/10.5281/zenodo.10253691](https://doi.org/10.5281/zenodo.10253691){:target="_blank" rel="noopener"}. 
-[![DOI](https://zenodo.org/badge/716446689.svg)](https://zenodo.org/doi/10.5281/zenodo.10253690){:target="_blank" rel="noopener"} 
+[http://doi.org/10.5281/zenodo.10127854](http://doi.org/10.5281/zenodo.10127854){:target="_blank" rel="noopener"}. 
+[![DOI](https://zenodo.org/badge/DOI/10127854.svg)](https://doi.org/10.5281/zenodo.10127854){:target="_blank" rel="noopener"}
 
-
-> **Pretell, R.** (2024). 
-*gmKriger: A Kriging-based ground motion intensity measure calculator (0.2.0).* 
-Zenodo. 
-[https://doi.org/10.5281/zenodo.10691892](https://doi.org/10.5281/zenodo.10691892){:target="_blank" rel="noopener"}. 
-[![DOI](https://zenodo.org/badge/732896925.svg)](https://zenodo.org/doi/10.5281/zenodo.10399418){:target="_blank" rel="noopener"}
-
-
-> **Pretell, R.** (2023). 
-*gmms: Ground motion models and supporting tools (0.1.1).* 
-Zenodo. 
-[http://doi.org/10.5281/zenodo.10397816](http://doi.org/10.5281/zenodo.10397816){:target="_blank" rel="noopener"}. 
-[![DOI](https://zenodo.org/badge/716445161.svg)](https://zenodo.org/doi/10.5281/zenodo.10127854){:target="_blank" rel="noopener"}
 
 
 > **Pretell, R.** (2025). 
-*gmimtools: A suite of ground motion intensity measure tools (0.2.0).* 
+*gmimtools: A suite of ground motion intensity measure tools (v0.2.0).* 
 Zenodo. 
-[https://doi.org/10.5281/zenodo.14995401](https://doi.org/10.5281/zenodo.14995401){:target="_blank" rel="noopener"}. 
-[![DOI](https://zenodo.org/badge/716446151.svg)](https://doi.org/10.5281/zenodo.10099773){:target="_blank" rel="noopener"}
+[https://doi.org/10.5281/zenodo.10099773](https://doi.org/10.5281/zenodo.10099773){:target="_blank" rel="noopener"}. 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10099773.svg)](https://doi.org/10.5281/zenodo.10099773){:target="_blank" rel="noopener"}
 
+
+> **Pretell, R.** (2024). 
+*gmKriger: A Kriging-based ground motion intensity measure calculator (v0.2.0).* 
+Zenodo. 
+[https://doi.org/10.5281/zenodo.10399418](https://doi.org/10.5281/zenodo.10399418){:target="_blank" rel="noopener"}. 
+[![DOI](https://zenodo.org/badge/DOI/10399418.svg)](https://doi.org/10.5281/zenodo.10399418){:target="_blank" rel="noopener"}
+
+
+> **Pretell, R.**, and Brandenberg, S. (2023). 
+*separability_index: A suite of tools to assess the separability of two datasets (v0.1.0).* 
+Zenodo. 
+[https://doi.org/10.5281/zenodo.10404856](https://doi.org/10.5281/zenodo.10404856){:target="_blank" rel="noopener"}. 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10404856.svg)](https://doi.org/10.5281/zenodo.10404856){:target="_blank" rel="noopener"}
 
 
 <br>
