@@ -1,7 +1,7 @@
 ---
 <!-- layout: single -->
 title: ""
-permalink: /software/
+permalink: /software_data/
 author_profile: true
 ---
 
