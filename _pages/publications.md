@@ -264,7 +264,7 @@ November 15-18, 2020.
 In: *Proceedings of the 7<sup>th</sup> International Conference on Earthquake Geotechnical Engineering (7ICEGE).*
 Rome, Italy. 
 June 17-20, 2019. 
-**[Open access](https://www.issmge.org/publications/publication/methodology-for-the-development-of-input-motions-for-nonlinear-deformation-analyses){:target="_blank" rel="noopener"}.** 
+**[[Open access]](https://www.issmge.org/publications/publication/methodology-for-the-development-of-input-motions-for-nonlinear-deformation-analyses){:target="_blank" rel="noopener"}** 
 
 
 > 7\.
@@ -348,7 +348,7 @@ Lee, J., Bastias, N., <u>Katuwal, S.</u>, Cabas, A., **Pretell, R.**, and Montal
 *Understanding the performance of ground motion models in megathrust tectonic environments.* 
 Prepared for CRESCENT.  
 [https://doi.org/10.5281/zenodo.17180284](https://doi.org/10.5281/zenodo.17180284){:target="_blank" rel="noopener"}
-**[Open access](https://doi.org/10.5281/zenodo.17180284){:target="_blank" rel="noopener"}.**
+**[[Open access]](https://doi.org/10.5281/zenodo.17180284){:target="_blank" rel="noopener"}**
 
 
 >10\.
@@ -356,7 +356,7 @@ Prepared for CRESCENT.
 *Ground motion intensity measures at liquefaction field case history sites.* 
 Prepared for CALTRANS. GIRS-2024-02. 
 [https://doi.org/10.34948/N35K59](https://doi.org/10.34948/N35K59){:target="_blank" rel="noopener"}
-**[Open access](https://doi.org/10.34948/N35K59){:target="_blank" rel="noopener"}.**
+**[[Open access]](https://doi.org/10.34948/N35K59){:target="_blank" rel="noopener"}**
 
 
 >9\.
