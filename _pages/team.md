@@ -279,3 +279,22 @@ author_profile: false
 	
 	</figcaption>
 </figure>
+<br>
+
+<figure style="margin: 0 auto 0.5rem auto; max-width: 900px;">
+
+	<img src="/images/GroupPic_Welcome_CC_2025_07_25.jpg" alt="Research group photo" 
+		style="width:100%; height:auto; border-radius:6px; display:block; margin:0 auto;">
+
+	<figcaption style="font-size:0.95em; color:#555; text-align:center; max-width:900px; margin:0 auto; margin-top:0.5rem; ">
+	
+		Welcoming Carlos and Cesar to the University of Nevada, Reno. July, 2025.
+		<br>
+		<em>
+			From left to right: Carlos, Cesar, Santosh, and Renmin.
+		</em>
+		<br>
+	
+	</figcaption>
+</figure>
+

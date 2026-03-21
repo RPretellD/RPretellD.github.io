@@ -80,13 +80,14 @@ author_profile: true
 -->
 
 		<figure>
-			<img src="/images/VSRA.png" alt="AFliq" style="width:100%; height:auto; border-radius:6px;">
+			<img src="/images/Research/2026_Katuwal_Pretell_VSRA.svg" alt="V-SRA" style="width:100%; height:auto; border-radius:6px;">
 			
 			<figcaption style="text-align:center; font-size:0.9em; color:#555;">
-				Vertical site response for a hypothetical site (Katuwal and Pretell 2026).
-				<em>
-					TF<sub>x</sub> and TF<sub>z</sub> are the transfer functions for horizontal and vertical shaking, respectively. 
-				</em>
+				Vertical site response for a hypothetical site 
+				<a
+				href="https://doi.org/10.1061/9780784486702.043" target="_blank" rel="noopener">
+					(Katuwal and Pretell 2026)
+				</a>.
 			</figcaption>
 		</figure>
 	</div>
@@ -96,7 +97,7 @@ author_profile: true
 	<div class="topic">
 	  
 	  	<h2 style="margin:0;"> 
-			<u><b>SITE RESPONSE MODEL FOR THE CALIFORNIAN SIERRAS</b></u>
+			<u><b>SITE RESPONSE MODEL FOR THE SIERRAS OF EASTERN CALIFORNIA</b></u>
 		</h2>
 		<br>
 
@@ -111,7 +112,7 @@ author_profile: true
 -->
 
 		<figure>
-			<img src="/images/Figure_3_rp.png" alt="Vs_TFs" style="width:100%; height:auto; border-radius:6px;">
+			<img src="/images/Research/2025_Katuwal_Pretell_Vs_gradient.png" alt="Vs_TFs" style="width:100%; height:auto; border-radius:6px;">
 			
 			<figcaption style="text-align:center; font-size:0.9em; color:#555;">
 				Effect of shear-wave velocity (V<sub>S</sub>) profile gradient on site amplification
@@ -144,7 +145,7 @@ author_profile: true
 -->
 
 		<figure>
-			<img src="/images/AFliq.png" alt="AFliq" style="width:100%; height:auto; border-radius:6px;">
+			<img src="/images/Research/2025_Pretell_et_al_AFliq.png" alt="AFliq" style="width:100%; height:auto; border-radius:6px;">
 			
 			<figcaption style="display:block; text-align:center; font-size:0.9em; color:#555;">
 			
