@@ -172,7 +172,7 @@ author_profile: true
 </h2>
 
 <p class="sponsor-text">
-The financial support from the following organizations is greatly appreciated. 
+	The financial support from the following organizations is greatly appreciated. 
 </p>
 
 <div class="sponsor-grid">
