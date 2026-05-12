@@ -9,6 +9,17 @@ author_profile: true
 
 ## **<u>JOURNAL PUBLICATIONS</u>**
 
+> 
+<u>Katuwal, S.</u>, and **Pretell, R.** 
+“Unified analytical solutions for inclined SH, P, and SV waves: Vertical site response analysis.” 
+*Under review.* 
+
+
+> 
+Numanoglu, O.A., and **Pretell, R.** 
+“Multi-tiered evaluation of earthquake-induced settlements: Application to case studies from the 2023 Türkiye Earthquake Sequence.” 
+*Under review.* 
+
 
 > 12\.
 **Pretell, R.**, Brandenberg, S.J., and Stewart, J.P. (2026). 
