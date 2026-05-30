@@ -52,7 +52,7 @@ Zenodo.
 
 > 2\. 
 Brandenberg, S.J., and **Pretell, R.** (2024). 
-*Logic tree distributions (Jupyter notebooks). GitHub repository:.*  
+*Logic tree distributions (Jupyter notebooks). *  
 <br> **[[GitHub]](https://github.com/RPretellD/logic_tree_distributions){:target="_blank" rel="noopener"}** 
 
 
