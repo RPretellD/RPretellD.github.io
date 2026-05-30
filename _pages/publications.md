@@ -24,8 +24,8 @@ Numanoglu, O.A., and **Pretell, R.**
 > 12\.
 **Pretell, R.**, Brandenberg, S.J., and Stewart, J.P. (2026). 
 “Ground motion intensity measures at liquefaction field case history sites.” 
-*Journal of Geotechnical and Geoenvironmental Engineering.* 
-*In Press.* 
+*Journal of Geotechnical and Geoenvironmental Engineering* 152(8): 04026054. 
+[https://doi.org/10.1061/JGGEFK.GTENG-14212](https://doi.org/10.1061/JGGEFK.GTENG-14212){:target="_blank" rel="noopener"}
 **[[Dataset]](https://doi.org/10.17603/ds2-6vj1-t096){:target="_blank" rel="noopener"}** 
 **[[GitHub]](https://github.com/RPretellD/gmKriger){:target="_blank" rel="noopener"}** 
 
