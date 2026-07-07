@@ -65,6 +65,56 @@ author_profile: true
 	<div class="topic">
 	  
 		<h2 style="margin:0;">
+			<u><b>SUBSURFACE GEOPHYSICAL CHARACTERIZATION</b></u>
+		</h2>
+		<br>
+
+		<em><p><strong>Team:</strong>
+			Carlos Fernandez, Renmin Pretell
+		</p></em>
+
+<!--
+		**Description.** We quantify how spatial variability of soils drives
+		system-level risk in tailings storage facilities, linking material
+		heterogeneity to failure modes and resilience planning.
+-->
+
+		<figure>
+			<img src="/images/Research/2026_03_Geophysics_testing.jpg" alt="V-SRA" style="width:100%; height:auto; border-radius:6px;">
+			
+			<figcaption style="text-align:center; font-size:0.9em; color:#555;">
+				Geophysical testing using Multichannel Analysis of Surface Waves (MASW) at The Quad, UNR. 
+			</figcaption>
+		</figure>
+	</div>
+	
+	
+<!--
+		<div class="topic">
+	  
+		<h2 style="margin:0;">
+			<u><b>TURNAGAIN HEIGHTS LANDSLIDE CASE HISTORY</b></u>
+		</h2>
+		<br>
+
+		<em><p><strong>Team:</strong>
+			Cesar Sanchez, Renmin Pretell, Robb Moss (Cal Poly)
+		</p></em>
+
+		<figure>
+			<img src="/images/Research/2026_03_Geophysics_testing.jpg" alt="V-SRA" style="width:100%; height:auto; border-radius:6px;">
+			
+			<figcaption style="text-align:center; font-size:0.9em; color:#555;">
+				Geophysical testing using Multichannel Analysis of Surface Waves (MASW) at The Quad, UNR. 
+			</figcaption>
+		</figure>
+	</div>
+-->
+	
+	
+	<div class="topic">
+	  
+		<h2 style="margin:0;">
 			<u><b>SITE RESPONSE FOR VERTICAL SHAKING</b></u>
 		</h2>
 		<br>
@@ -172,7 +222,7 @@ author_profile: true
 </h2>
 
 <p class="sponsor-text">
-	The financial support from the following organizations is greatly appreciated. 
+	The contributions from the following organizations, in the form of financial support or data access, are greatly appreciated. 
 </p>
 
 <div class="sponsor-grid">
@@ -193,6 +243,14 @@ author_profile: true
 		<img src="/images/Logo_CRESCENT2.png" alt="Cascadia Region Earthquake Science Center">
 	</div>
 
+	<div class="sponsor-item sponsor-cme">
+		<img src="/images/Logo_CME.jpg" alt="Construction Materials Engineers">
+	</div>
+
+	<div class="sponsor-item">
+		<img src="/images/Logo_WoodRodgers.png" alt="Wood Rodgers">
+	</div>
+	
 </div>
 
 
@@ -223,6 +281,11 @@ grid-template-columns: repeat(2, 1fr);
 	background: #000;
 	padding: 6px;
 	border-radius: 6px;
+}
+
+.sponsor-cme img {
+    max-width: 80%;
+    max-height: 80%;
 }
 
 </style>

@@ -241,8 +241,28 @@ author_profile: false
 
 <hr>
 
+
+
 <br>
 <h1 class="team-section" style="text-align:center; text-decoration:underline;"> GROUP PICTURES </h1>
+<br>
+
+<figure style="margin: 0 auto 0.5rem auto; max-width: 900px;">
+
+	<img src="/images/GroupPic_FieldTrip.jpg" alt="Research group photo" 
+		style="width:100%; height:auto; border-radius:6px; display:block; margin:0 auto;">
+
+	<figcaption style="font-size:0.95em; color:#555; text-align:center; max-width:900px; margin:0 auto; margin-top:0.5rem; ">
+	
+		Field visit to project site in Sparks, NV. May 2026.
+		<br>
+		<em>
+			From left to right: Dominik, Cesar, Carlos, Santosh, and Muhsin. Thank you, menARD, for facilitating this field visit. 
+		</em>
+		<br>
+	
+	</figcaption>
+</figure>
 <br>
 
 <figure style="margin: 0 auto 0.5rem auto; max-width: 900px;">
@@ -252,7 +272,7 @@ author_profile: false
 
 	<figcaption style="font-size:0.95em; color:#555; text-align:center; max-width:900px; margin:0 auto; margin-top:0.5rem; ">
 	
-		Celebrating Santosh’s birthday. December, 2025.
+		Celebrating Santosh’s birthday. December 2025.
 		<br>
 		<em>
 			From left to right: Alejandro, Cesar, Dominik, Santosh, Safal, and Carlos. Behind the camera: Renmin. 
@@ -270,7 +290,7 @@ author_profile: false
 
 	<figcaption style="font-size:0.95em; color:#555; text-align:center; max-width:900px; margin:0 auto; margin-top:0.5rem; ">
 	
-		Thanksgiving dinner. November, 2025.
+		Thanksgiving dinner. November 2025.
 		<br>
 		<em>
 			From left to right: Santosh, Cesar, Carlos, and Renmin.
@@ -288,7 +308,7 @@ author_profile: false
 
 	<figcaption style="font-size:0.95em; color:#555; text-align:center; max-width:900px; margin:0 auto; margin-top:0.5rem; ">
 	
-		Welcoming Carlos and Cesar to the University of Nevada, Reno. July, 2025.
+		Welcoming Carlos and Cesar to the University of Nevada, Reno. July 2025.
 		<br>
 		<em>
 			From left to right: Carlos, Cesar, Santosh, and Renmin.

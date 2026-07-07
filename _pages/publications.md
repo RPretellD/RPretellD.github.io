@@ -33,7 +33,7 @@ Numanoglu, O.A., and **Pretell, R.**
 > 11\.
 Buckreis, T.E., Nweke, C.C., Wang, P., Brandenberg, S.J., Ramos-Sepulveda, M.E., Shams, R., **Pretell, R.**, Mazzoni, S., Zimmaro, P., and Stewart, J.P. (2025).
 “A global Application Programming Interface-enabled earthquake ground motion relational database for engineering applications.” 
-*Earthquake Spectra* 41(5): 4162-4194. 
+*Earthquake Spectra* 41(5): 4162–4194. 
 [https://doi.org/10.1177/87552930251344978](https://doi.org/10.1177/87552930251344978){:target="_blank" rel="noopener"}
 **[[Open access]](https://doi.org/10.1177/87552930251344978){:target="_blank" rel="noopener"}**
 
@@ -117,6 +117,15 @@ Basu, D., **Pretell, R.**, Montgomery, J., and Ziotopoulou, K. (2022).
 
 <br>
 ## **<u>PEER-REVIEWED CONFERENCE PROCEEDINGS</u>**
+
+>
+Rahimi, S., Chen, R., Kumar, P., **Pretell, R.**, and Abrahamson, N.A. (2026). 
+“Implementation of non-ergodic site PSHA for a site in the San Francisco Bay Area.” 
+In: *Proceedings of the International Conference on Performance Based Design in Earthquake Geotechnical Engineering V.* 
+Puerto Varas, Chile. 
+November 4-6, 2026. 
+*In review.* 
+
 
 
 > 25\.
@@ -353,6 +362,11 @@ B.S. thesis, National University of Engineering (UNI), Lima, Peru.
 <br>
 ## **<u>REPORTS</u>**
 
+> 12\.
+<u>Katuwal, S.</u>, and **Pretell, R.** (2026). 
+*P-SV wave propagation for modeling vertical amplification in layered media.*
+Prepared for the Council of Vertical Urbanism (CVU). June 2026. 
+
 
 > 11\. 
 Lee, J., Bastias, N., <u>Katuwal, S.</u>, Cabas, A., **Pretell, R.**, and Montalva, G. (2025). 
@@ -429,6 +443,7 @@ DesignSafe-CI.
 <br>
 ## **<u>ABSTRACTS AND NON-REFEREE CONFERENCE PROCEEDINGS</u>**
 
+
 > 12\.
 **Pretell, R.**, <u>Fernandez, C.</u>, and Rodriguez-Marek, A. (2026). 
 “When is non-ergodic site response most needed?.” 
@@ -451,6 +466,7 @@ April 14-18, 2026.
 *2025 Seminar on Utilization Strong-Motion Data.*
 Sacramento, CA. 
 October 9, 2025. 
+**[[Open access]](https://www.conservation.ca.gov/cgs/documents/program-smi/seminar/SMIP25-P4-Paper-by-Pretell-a11y.pdf){:target="_blank" rel="noopener"}**
 
 
 > 9\. 

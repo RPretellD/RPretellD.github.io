@@ -25,7 +25,7 @@ redirect_from:
 
 	<figcaption style="font-size:0.95em; color:#555; text-align:center; max-width:900px; margin:0 auto; margin-top:0.5rem; ">
 
-		Second UNR CEE Graduate Student Research Symposium. March, 2026. 
+		Second UNR CEE Graduate Student Research Symposium. March 2026. 
 		<br>
 		<em>
 			From left to right: Muhsin, Santosh, Cesar, Renmin, Dominik, and Carlos.
@@ -50,16 +50,17 @@ at the University of Nevada, Reno (UNR).
 Before joining UNR in 2023, I spent over a decade in both industry and academia. I was a postdoctoral scholar 
 with the Garrick Institute for the Risk Sciences (GIRS) at the University of California, Los Angeles. 
 I also worked as a consulting engineer with Golder Associates in its offices in Lima (Peru) and Denver (CO), 
-mainly focused on tailings dams projects. I hold a PhD and MS in Civil and Environmental Engineering 
+mainly focused on tailings dam projects. I hold a Ph.D. and M.S. in Civil and Environmental Engineering 
 from the University of California, Davis; and a BS in Civil Engineering from the National University of Engineering 
 (UNI) in Peru. 
 
 
 <!-- ## **<u>OUR RESEARCH</u>** -->
 
-Our research aims to advance the performance assessment of geotechnical systems and infrastructure by 
-integrating field and experimental data, with numerical simulations and analytics. Our research interests 
-include seismic site response, soil liquefaction, and subsurface soil spatial variability. 
+Our research aims to advance the assessment of ground failure and the performance of infrastructure 
+and geotechnical systems, including tailings dams and heap leach pads, by integrating field and 
+experimental data with numerical simulations and analytics. Specific research interests include 
+seismic site response, soil liquefaction, and subsurface soil spatial variability. 
 
 My combined experience in industry and academia shaped my goal of bridging the two. 
 We aim to study real-world problems with a fundamental perspective to produce knowledge that is scientifically sound 
@@ -87,4 +88,4 @@ University of Nevada, Reno<br>
 <br>
 <br>
 
-<small><span style="color: #777;"><em>Last updated on 01/24/2026</em></span></small>
+<small><span style="color: #777;"><em>Last updated on July 2026.</em></span></small>
