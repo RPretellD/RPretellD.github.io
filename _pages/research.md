@@ -61,6 +61,26 @@ author_profile: true
 
 <div class="research-grid">
 
+	<div class="topic">
+	  
+		<h2 style="margin:0;">
+			<u><b>TURNAGAIN HEIGHTS LANDSLIDE</b></u>
+		</h2>
+		<br>
+
+		<em><p><strong>Team:</strong>
+			Cesar Sanchez, Renmin Pretell, Robb Moss (Cal Poly)
+		</p></em>
+
+		<figure>
+			<img src="/images/Research/9_Shaking_20s__gp_disp_x.png" alt="V-SRA" style="width:100%; height:auto; border-radius:6px;">
+			
+			<figcaption style="text-align:center; font-size:0.9em; color:#555;">
+				Numerical modeling of the Turnagain Heights landslide of the 1964 <b>M</b>9.2 Great Alaska Earthquake. 
+			</figcaption>
+		</figure>
+	</div>
+
 
 	<div class="topic">
 	  
@@ -87,29 +107,6 @@ author_profile: true
 			</figcaption>
 		</figure>
 	</div>
-	
-	
-<!--
-		<div class="topic">
-	  
-		<h2 style="margin:0;">
-			<u><b>TURNAGAIN HEIGHTS LANDSLIDE CASE HISTORY</b></u>
-		</h2>
-		<br>
-
-		<em><p><strong>Team:</strong>
-			Cesar Sanchez, Renmin Pretell, Robb Moss (Cal Poly)
-		</p></em>
-
-		<figure>
-			<img src="/images/Research/2026_03_Geophysics_testing.jpg" alt="V-SRA" style="width:100%; height:auto; border-radius:6px;">
-			
-			<figcaption style="text-align:center; font-size:0.9em; color:#555;">
-				Geophysical testing using Multichannel Analysis of Surface Waves (MASW) at The Quad, UNR. 
-			</figcaption>
-		</figure>
-	</div>
--->
 	
 	
 	<div class="topic">

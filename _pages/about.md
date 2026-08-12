@@ -62,9 +62,9 @@ and geotechnical systems, including tailings dams and heap leach pads, by integr
 experimental data with numerical simulations and analytics. Specific research interests include 
 seismic site response, soil liquefaction, and subsurface soil spatial variability. 
 
-My combined experience in industry and academia shaped my goal of bridging the two. 
+My combined experience in industry and academia shaped my goal of bridging rigorous research and engineering practice. 
 We aim to study real-world problems with a fundamental perspective to produce knowledge that is scientifically sound 
-and useful to the industry. 
+and useful in practice. 
 
 [About Renmin Pretell]({{ "/about_Renmin/" | relative_url }}){:target="_blank" rel="noopener"}.
 

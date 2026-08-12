@@ -118,13 +118,13 @@ Basu, D., **Pretell, R.**, Montgomery, J., and Ziotopoulou, K. (2022).
 <br>
 ## **<u>PEER-REVIEWED CONFERENCE PROCEEDINGS</u>**
 
->
-Rahimi, S., Chen, R., Kumar, P., **Pretell, R.**, and Abrahamson, N.A. (2026). 
+> 26\.
+Rahimi, S., Chen, R., Kumar, P., and **Pretell, R.** (2026). 
 “Implementation of non-ergodic site PSHA for a site in the San Francisco Bay Area.” 
 In: *Proceedings of the International Conference on Performance Based Design in Earthquake Geotechnical Engineering V.* 
 Puerto Varas, Chile. 
 November 4-6, 2026. 
-*In review.* 
+*Accepted.* 
 
 
 
@@ -134,7 +134,6 @@ Lee, J., Bastias, N., <u>Katuwal, S.</u>, Montalva, G., **Pretell, R.**, and Cab
 In: *Proceedings of the 13<sup>th</sup> National Conference on Earthquake Engineering.* 
 Portland, OR. 
 July 13-17, 2026. 
-*Accepted.* 
 
 
 > 24\.
@@ -143,7 +142,6 @@ Mivehchi, M., Ziotopoulou, K., **Pretell, R.**, Davis, C., Harada, K., Kagawa, T
 In: *Proceedings of the 13<sup>th</sup> National Conference on Earthquake Engineering.* 
 Portland, OR. 
 July 13-17, 2026. 
-*Accepted.* 
 
 
 > 23\.
@@ -152,16 +150,14 @@ Numanoglu, O.A., and **Pretell, R.** (2026).
 In: *Proceedings of the 13<sup>th</sup> National Conference on Earthquake Engineering.* 
 Portland, OR. 
 July 13-17, 2026. 
-*Accepted.* 
 
 
 > 22\.
-**Pretell, R.**, <u>Katuwal, S.</u>, Huaman, A., and Motamed, R. 
+**Pretell, R.**, <u>Katuwal, S.</u>, Huaman, A., and Motamed, R. (2026).
 “Assessing analytical solutions for vertical site response: Insights from the Service Hall Array.” 
 In: *Proceedings of the 13<sup>th</sup> National Conference on Earthquake Engineering.* 
 Portland, OR. 
 July 13-17, 2026. 
-*Accepted.* 
 
 
 > 21\.
@@ -362,10 +358,16 @@ B.S. thesis, National University of Engineering (UNI), Lima, Peru.
 <br>
 ## **<u>REPORTS</u>**
 
+> 13\.
+<u>Katuwal, S.</u>, and **Pretell, R.** (2026). 
+*Assessment of vertical amplification in layered media.*
+Prepared for the Council of Vertical Urbanism (CVU). July 2026. 
+
+
 > 12\.
 <u>Katuwal, S.</u>, and **Pretell, R.** (2026). 
 *P-SV wave propagation for modeling vertical amplification in layered media.*
-Prepared for the Council of Vertical Urbanism (CVU). June 2026. 
+Prepared for the Council of Vertical Urbanism (CVU). May 2026. 
 
 
 > 11\. 
@@ -443,10 +445,34 @@ DesignSafe-CI.
 <br>
 ## **<u>ABSTRACTS AND NON-REFEREE CONFERENCE PROCEEDINGS</u>**
 
+> 15\.
+Marino, D., Rowe, C.D., Koehler, R.D., Wesnousky, S., **Pretell, R.**, <u>Fernandez, C.</u>, 
+Kratt, C., Cashman, P., Anderson, K., Merrell, M.L., and Chuchro, B. (2026). 
+“New fault mapping for the Central - Northern Walker Lane in Nevada."  
+*AGU Annual Meeting.* 
+San Francisco, CA. 
+December 7-11, 2026. 
+
+
+> 14\.
+**Pretell, R.**, and <u>Brozowski, D.</u> (2026). 
+“Liquefaction effects on ground motions.” 
+*Biennial Natural Phenomena Hazards (NPH) Workshop.* 
+Rockville, MD. 
+September 22-24, 2026. 
+
+
+> 13\.
+**Pretell, R.**, and <u>Katuwal, S.</u> (2026). 
+“Site response assessment for the vertical component of ground shaking.” 
+*Biennial Natural Phenomena Hazards (NPH) Workshop.* 
+Rockville, MD. 
+September 22-24, 2026. 
+
 
 > 12\.
 **Pretell, R.**, <u>Fernandez, C.</u>, and Rodriguez-Marek, A. (2026). 
-“When is non-ergodic site response most needed?.” 
+“When is non-ergodic site response most needed?” 
 *NEA Workshop on Seismic Input Motion Development (SIMD) for Analysis and Design of Nuclear Installations.* 
 Rockville, MD. 
 May 11-13, 2026. 
