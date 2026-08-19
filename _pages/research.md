@@ -90,7 +90,7 @@ author_profile: true
 		<br>
 
 		<em><p><strong>Team:</strong>
-			Carlos Fernandez, Renmin Pretell
+			Carlos Fernandez, Jessica Resong, Renmin Pretell
 		</p></em>
 
 <!--
@@ -215,7 +215,7 @@ author_profile: true
 <hr style="margin: 60px 0 30px 0;">
 
 <h2 style="text-align:left;">
-	<b>SPONSORS</b>
+	<b>ACKNOWLEDGEMENTS</b>
 </h2>
 
 <p class="sponsor-text">
@@ -238,6 +238,10 @@ author_profile: true
 
 	<div class="sponsor-item sponsor-dark">
 		<img src="/images/Logo_CRESCENT2.png" alt="Cascadia Region Earthquake Science Center">
+	</div>
+	
+	<div class="sponsor-item">
+		<img src="/images/Logo_Newmont.jpg" alt="Newmont Corporation">
 	</div>
 
 	<div class="sponsor-item sponsor-cme">
