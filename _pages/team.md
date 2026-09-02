@@ -215,7 +215,7 @@ author_profile: false
 -->
 
 	<div class="team-member">
-		<img src="/images/headshot_placeholder.png" alt="Placeholder">
+		<img src="/images/JessicaResong.jpg" alt="Placeholder">
 
 		<div class="team-text">
 
