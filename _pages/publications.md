@@ -18,7 +18,7 @@ author_profile: true
 > 13\.
 Numanoglu, O.A., and **Pretell, R.** 
 “Multi-tiered evaluation of earthquake-induced settlements: Application to case studies from the 2023 Türkiye Earthquake Sequence.” 
-*Accepted.* 
+*Journal of Geotechnical and Geoenvironmental Engineering.* *Accepted.* 
 
 
 > 12\.
