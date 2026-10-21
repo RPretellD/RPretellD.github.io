@@ -445,6 +445,14 @@ DesignSafe-CI.
 <br>
 ## **<u>ABSTRACTS AND NON-REFEREE CONFERENCE PROCEEDINGS</u>**
 
+> 16\.
+<u>Katuwal, S.</u>, **Pretell, R.**, <u>Fernandez, C.</u>, Bayless, J.R., Motamed, R., and Abrahamson, N.A. (2026).
+“Application of the BA19 and Aea26 GMMs to the Sierras of Eastern California and Evaluation of Site Response Predictors.”
+*2026 Seminar on Utilization Strong-Motion Data.*
+Sacramento, CA. 
+October 22, 2026. 
+
+
 > 15\.
 Marino, D., Rowe, C.D., Koehler, R.D., Wesnousky, S., **Pretell, R.**, <u>Fernandez, C.</u>, 
 Kratt, C., Cashman, P., Anderson, K., Merrell, M.L., and Chuchro, B. (2026). 

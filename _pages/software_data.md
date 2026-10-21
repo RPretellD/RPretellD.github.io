@@ -5,8 +5,8 @@ permalink: /software_data/
 author_profile: true
 ---
 
+*Underlining identifies students in my research group ([rpretell.com/team/](https://rpretell.com/team/){:target="_blank" rel="noopener"})*
 
-<br>
 ## **<u>SOFTWARE</u>**
 
 
@@ -67,6 +67,13 @@ Zenodo.
 
 <br>
 ## **<u>DATASETS</u>**
+
+
+> 7\. 
+<u>Fernandez Portal, C.</u>, <u>Katuwal, S.</u>, and **Pretell, R.** (2026). 
+*Shear-wave velocity profiles for seismic stations along the Sierras of Eastern California.* 
+DesignSafe-CI. 
+[https://doi.org/10.17603/ds2-t591-xg81](https://doi.org/10.17603/ds2-t591-xg81){:target="_blank" rel="noopener"}.
 
 
 > 6\. 
