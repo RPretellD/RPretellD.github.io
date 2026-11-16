@@ -73,10 +73,10 @@ author_profile: true
 		</p></em>
 
 		<figure>
-			<img src="/images/Research/9_Shaking_20s__gp_disp_x.png" alt="V-SRA" style="width:100%; height:auto; border-radius:6px;">
+			<img src="/images/Research/TGHs.png" alt="V-SRA" style="width:100%; height:auto; border-radius:6px;">
 			
 			<figcaption style="text-align:center; font-size:0.9em; color:#555;">
-				Numerical modeling of the Turnagain Heights landslide of the 1964 <b>M</b>9.2 Great Alaska Earthquake. 
+				Numerical modeling of the Turnagain Heights landslide of the 1964 <b>M</b>9.2 Great Alaska Earthquake. Top: Finite-difference model. Bottom: Material-point model. 
 			</figcaption>
 		</figure>
 	</div>
@@ -182,7 +182,7 @@ author_profile: true
 		<br>
 
 		<em><p><strong>Team:</strong>
-			Renmin Pretell, Scott Brandenberg (UCLA), Jonathan Stewart (UCLA)
+			Renmin Pretell, Scott Brandenberg (UCLA), Jonathan Stewart (UCLA), Jim Gingery (Keller), Zia Zafir (Kleinfelder)
 		</p></em>
 
 <!--
@@ -218,7 +218,7 @@ author_profile: true
 	<b>ACKNOWLEDGEMENTS</b>
 </h2>
 
-<p class="sponsor-text">
+<p>
 	The contributions from the following organizations, in the form of financial support or data access, are greatly appreciated. 
 </p>
 

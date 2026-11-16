@@ -62,7 +62,7 @@ Brandenberg, S.J., and **Pretell, R.** (2024).
 Zenodo. 
 [https://doi.org/10.5281/zenodo.10401084](https://doi.org/10.5281/zenodo.10401084){:target="_blank" rel="noopener"}. 
 [![DOI](https://zenodo.org/badge/DOI/10401084.svg)](https://doi.org/10.5281/zenodo.10401084){:target="_blank" rel="noopener"}
-<br> **[[GitHub]](https://github.com/RPretellD/logic_tree_distributions){:target="_blank" rel="noopener"}** 
+<br> **[[GitHub]](https://github.com/RPretellD/separability_index){:target="_blank" rel="noopener"}** 
 
 
 <br>
@@ -98,9 +98,9 @@ DesignSafe-CI.
 
 
 > 3\.
-**Pretell, R.**, Brandenberg, S., and Stewart, J. (2023). 
-*Consistently computed ground motion intensity measures for liquefaction triggering assessment.* 
-DesignSafe-CI. 
+**Pretell, R.**, S. Brandenberg, J. Stewart (2023).
+*Consistently computed ground motion intensity measures for liquefaction triggering assessment* [Version 3].
+DesignSafe-CI.
 [https://doi.org/10.17603/ds2-6vj1-t096](https://doi.org/10.17603/ds2-6vj1-t096){:target="_blank" rel="noopener"}.
 
 

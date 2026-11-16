@@ -104,65 +104,6 @@ author_profile: false
     </div>
 
 	<div class="team-member">
-		<img src="/images/DominikBrozowski.jpg" alt="Dominik Brozowski">
-	
-		<div class="team-text">
-	
-			<h1 style="margin:0;"> Dominik Brozowski </h1>
-			<br>
-			
-			<p><strong>Research areas<br></strong>
-				Soil liquefaction, numerical modeling</p>
-
-			<p><strong>Degree objective:&nbsp;&nbsp;&nbsp;</strong>
-				PhD (expected: 2030)</p>
-			
-			<p>
-			Dominik is a third-year civil engineering student at UNR, graduating early with a Bachelor’s degree
-			in May 2026. Dominik will continue his studies working towards a PhD in Geotechnical Engineering. He has internship 
-			experience at Nevada Department of Transportation with concrete and soils lab work, contractor quality control, and 
-			retaining wall design. Dominik’s research interests include numerical modeling, program implementation into models 
-			and structural materials.
-			</p>
-	  
-		</div>
-    </div>
-
-	<div class="team-member">
-		<img src="/images/MuhsinAcar.jpg" alt="Muhsin Acar">
-	
-		<div class="team-text">
-	
-			<h1 style="margin:0;"> Muhsin Acar </h1>
-			<br>
-			
-			<p><strong>Research areas<br></strong>
-				Soil liquefaction, numerical modeling</p>
-
-			<p><strong>Degree objective:&nbsp;&nbsp;&nbsp;</strong>
-				PhD (expected: 2029)</p>
-			
-			<p>
-			Muhsin earned his Bachelor’s degree in Civil Engineering from Firat University in Türkiye, where he ranked first 
-			in the Faculty of Engineering. He also holds a Master’s degree in Geotechnical Engineering from the University of 
-			Illinois at Urbana-Champaign. His master’s research focused on the numerical simulation of the dynamic response 
-			of concrete-faced rockfill dams. Prior to joining UNR, Muhsin served for over seven 
-			years as a Staff Engineer at the State Hydraulic Works of Türkiye. His research interests include soil liquefaction, 
-			non-linear dynamic analyses and the integration of advanced numerical modeling with field instrumentation to enhance 
-			the seismic resilience of critical infrastructure.
-			</p>
-	  
-		</div>
-	</div>
-	
-<!-- </div>-->
-
-<!-- <h1 class="master students section" style="text-align:left; font-style:italic;">Master students</h1>
-<br> -->
-
-<!-- <div class="team-grid">-->
-
-	<div class="team-member">
 		<img src="/images/Carlos.jpg" alt="Carlos Fernandez">
 	
 		<div class="team-text">
@@ -174,7 +115,7 @@ author_profile: false
 				Seismic site response, V<sub>S</sub> profile uncertainty</p>
 			
 			<p><strong>Degree objective:&nbsp;&nbsp;&nbsp;</strong>
-				MS (expected: 2026)</p>
+				PhD (expected: 2030)</p>
 				
 			<p>
 			Carlos earned his Bachelor’s degree in Civil Engineering from the National University of Engineering in Lima, Peru. 
@@ -184,6 +125,15 @@ author_profile: false
 
 		</div>
 	</div>
+
+
+	
+<!-- </div>-->
+
+<!-- <h1 class="master students section" style="text-align:left; font-style:italic;">Master students</h1>
+<br> -->
+
+<!-- <div class="team-grid">-->
 
 	<div class="team-member">
 		<img src="/images/Cesar.jpeg" alt="Cesar Sanchez">
@@ -197,7 +147,7 @@ author_profile: false
 				Soil spatial variability, tailings</p>
 			
 			<p><strong>Degree objective:&nbsp;&nbsp;&nbsp;</strong>
-				MS (expected: 2026)</p>
+				PhD (expected: 2030)</p>
 				
 			<p>
 			Cesar holds a BS in civil engineering from the National University of Engineering in Peru. Before joining UNR,
@@ -207,6 +157,30 @@ author_profile: false
 
 		</div>
 	</div>
+
+	<div class="team-member">
+		<img src="/images/DominikBrozowski.jpg" alt="Dominik Brozowski">
+	
+		<div class="team-text">
+	
+			<h1 style="margin:0;"> Dominik Brozowski </h1>
+			<br>
+			
+			<p><strong>Research areas<br></strong>
+				Soil liquefaction, numerical modeling</p>
+
+			<p><strong>Degree objective:&nbsp;&nbsp;&nbsp;</strong>
+				MS (expected: 2027)</p>
+			
+			<p>
+			Dominik is pursuing an MS in Geotechnical Engineering at UNR, with expected graduation in 2027. He has internship 
+			experience at Nevada Department of Transportation with concrete and soils lab work, contractor quality control, and 
+			retaining wall design. Dominik’s research interests include numerical modeling, program implementation into models 
+			and structural materials.
+			</p>
+	  
+		</div>
+    </div>
 <!-- </div>-->
 	
 
@@ -238,6 +212,14 @@ author_profile: false
 	</div>
 
 </div>
+
+<hr>
+
+<br>
+<h1 class="team-section" style="text-align:center; text-decoration:underline;"> FORMER MEMBERS </h1>
+<br>
+
+<p><strong>Muhsin Acar</strong>, January to September 2026</p>
 
 <hr>
 

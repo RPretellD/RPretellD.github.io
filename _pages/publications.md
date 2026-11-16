@@ -18,7 +18,8 @@ author_profile: true
 > 13\.
 Numanoglu, O.A., and **Pretell, R.** 
 “Multi-tiered evaluation of earthquake-induced settlements: Application to case studies from the 2023 Türkiye Earthquake Sequence.” 
-*Journal of Geotechnical and Geoenvironmental Engineering.* *Accepted.* 
+*Journal of Geotechnical and Geoenvironmental Engineering.* *In Press.*
+[https://doi.org/10.1061/JGGEFK.GTENG-15239](https://doi.org/10.1061/JGGEFK.GTENG-15239){:target="_blank" rel="noopener"}
 
 
 > 12\.
@@ -61,8 +62,8 @@ Liou, I., Abrahamson, N.A., and **Pretell, R.** (2024).
 
 
 > 7\.
-Buckreis, T.E., **Pretell, R.**, Askan, A., Sandikkaya, M.A., Kale, O., Brandenberg, S.J., and Stewart, J.P. (2024).
-“Engineering attributes of ground motions from February 2023 Türkiye Earthquake Event Sequence.”
+Buckreis, T.E., **Pretell, R.**, Sandikkaya, M.A., Kale, O., Askan, A., Brandenberg, S.J., and Stewart, J.P. (2024).
+“Engineering attributes of ground motions from February 2023 Türkiye Earthquake Sequence.”
 *Earthquake Spectra* 40(4): 2268–2284. Special Issue: 2023 Kahramanmaraş, Turkey, Earthquake. 
 [https://doi.org/10.1177/87552930241259024](https://doi.org/10.1177/87552930241259024){:target="_blank" rel="noopener"}
 **[[Open access]](https://doi.org/10.1177/87552930241259024){:target="_blank" rel="noopener"}** 
@@ -361,13 +362,13 @@ B.S. thesis, National University of Engineering (UNI), Lima, Peru.
 > 13\.
 <u>Katuwal, S.</u>, and **Pretell, R.** (2026). 
 *Assessment of vertical amplification in layered media.*
-Prepared for the Council of Vertical Urbanism (CVU). July 2026. 
+Prepared for the Council on Vertical Urbanism (CVU). July 2026. 
 
 
 > 12\.
 <u>Katuwal, S.</u>, and **Pretell, R.** (2026). 
 *P-SV wave propagation for modeling vertical amplification in layered media.*
-Prepared for the Council of Vertical Urbanism (CVU). May 2026. 
+Prepared for the Council on Vertical Urbanism (CVU). May 2026. 
 
 
 > 11\. 
@@ -429,7 +430,7 @@ Report and calibration results. Liquefaction Analysis and Experiments Projects (
 
 
 > 2\. 
-Mosalam, K., Abuchar, V., Archbold, J., Arteta, C., Fisher, E., Gunay, S., Hakhamaneshi, M., Hassan, W., Micheli, L., Muin, S., Pajaro Miranda, C., **Pretell Ductram, A.R.**, Peng., H., Robertson, I., Roueche, D., Ziotopoulou, K. (2019). 
+Mosalam, K., Abuchar, V., Archbold, J., Arteta, C., Fisher, E., Gunay, S., Hakhamaneshi, M., Hassan, W., Micheli, L., Muin, S., Pajaro Miranda, C., **Pretell Ductram, A.R.**, Peng, H., Robertson, I., Roueche, D., Ziotopoulou, K. (2019). 
 *STEER – M6.4 and M7.1 Ridgecrest, CA Earthquake on July 4-5, 2019: Preliminary Virtual Reconnaissance Report (PVRR).* 
 DesignSafe-CI. 
 [https://doi.org/10.17603/ds2-xqfh-1631](https://doi.org/10.17603/ds2-xqfh-1631){:target="_blank" rel="noopener"}.
@@ -443,7 +444,7 @@ DesignSafe-CI.
 
 
 <br>
-## **<u>ABSTRACTS AND NON-REFEREE CONFERENCE PROCEEDINGS</u>**
+## **<u>ABSTRACTS AND NON-REFEREED CONFERENCE PROCEEDINGS</u>**
 
 > 16\.
 <u>Katuwal, S.</u>, **Pretell, R.**, <u>Fernandez, C.</u>, Bayless, J.R., Motamed, R., and Abrahamson, N.A. (2026).
@@ -508,7 +509,7 @@ October 9, 2025.
 “Advancing seismic site response: Numerical assessment of Vs gradient and SV-wave propagation.” 
 *Seismological Society of America Annual Meeting*, 
 Baltimore, MD. 
-April 14-18, 2025. 
+April 14-17, 2025. 
 
 
 > 8\. 
@@ -516,7 +517,7 @@ April 14-18, 2025.
 “Regional variations in site-amplification variability.” 
 *Seismological Society of America Annual Meeting*, 
 Baltimore, MD. 
-April 14-18, 2025. 
+April 14-17, 2025. 
 
 
 > 7\.
@@ -542,9 +543,9 @@ September 10-12, 2023.
 
 
 > 4\.
-**Pretell, R.**, Sinha, S.K., Ziotopoulou, K., Watson-Lamprey, J.A., and Zekkos, D. (2021). 
+**Pretell, R.**, Sinha, S.K., Ziotopoulou, K., Watson-Lamprey, J.A., and Zekkos, D. (2022). 
 “Broadening the utilization of CSMIP data: Double convolution methodology towards developing input motions for site response and nonlinear deformation analyses.” 
-*2021 Seminar on Utilization Strong-Motion Data*, 
+*2022 Seminar on Utilization Strong-Motion Data*, 
 Sacramento, CA. 
 October 12, 2022. 
 
@@ -554,7 +555,7 @@ October 12, 2022.
 “A practical approach for accounting for VS spatial variability using 1D site response analyses.” 
 *Seismological Society of America Annual Meeting* , 
 Bellevue, WA. 
-April 14-18, 2026. 
+April 19-23, 2022. 
 
 
 > 2\.

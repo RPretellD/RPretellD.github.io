@@ -8,6 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Bio"
+    url: /about_Renmin/
   - title: "Team"
     url: /team/
 

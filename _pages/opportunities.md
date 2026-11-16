@@ -8,7 +8,7 @@ author_profile: true
 
 ## **<u>OPPORTUNITIES</u>**
 
-We are frequently looking for talented graduate students to join our research group. 
+We are often looking for talented graduate students to join our research group. 
 
 If you are a qualified candidate (see ***minimum qualifications*** below) and are interested in 
 joining our group, please e-mail me at rpretell at unr dot edu with the subject line <br>

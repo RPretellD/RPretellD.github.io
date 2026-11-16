@@ -88,4 +88,3 @@ University of Nevada, Reno<br>
 <br>
 <br>
 
-<small><span style="color: #777;"><em>Last updated on July 2026.</em></span></small>
