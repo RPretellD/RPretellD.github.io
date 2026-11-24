@@ -10,6 +10,12 @@ author_profile: true
 ## **<u>JOURNAL PUBLICATIONS</u>**
 
 > 
+ **Pretell, R.** and <u>Katuwal, S.</u>
+“Outcrop-equivalent ground motions at downhole array sites.” 
+*Under review.* 
+
+
+> 
 <u>Katuwal, S.</u>, and **Pretell, R.** 
 “Unified analytical solutions for inclined SH, P, and SV waves: Vertical site response analysis.” 
 *Under review.* 
